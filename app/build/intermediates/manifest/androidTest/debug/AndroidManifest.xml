@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gzwz.xiyou.vivo.test" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.gzwz.xiyou.vivo"
+        android:targetPackage="com.gzwz.xiyou.vivo" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

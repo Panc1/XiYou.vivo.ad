@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.gzwz.xiyou.vivo"
+    android:installLocation="auto">
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="26"
+         />
+
+    <supports-screens android:largeScreens="true" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- Restore Scheduled Notifications On Reboot -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="com.bbk.account.permission.READ_ACCOUNTINFO" />
+    <!-- SDK 相关声明 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <!-- vivo -->
+    <uses-permission android:name="vivo.game.permission.OPEN_JUMP_INTENTS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <!-- vivo end -->
+    <application
+        android:name="com.game.myApplication"
+        android:icon="@drawable/main_ic_launcher"
+        android:label="@string/app_name"
+        android:isGame="true"
+        >
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.1" />
+
+        <activity
+            android:name="com.game.GameActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.vivo.ad.SplashActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <meta-data
+            android:name="channelId"
+            android:value="6273073" />
+
+    </application>
+
+</manifest>

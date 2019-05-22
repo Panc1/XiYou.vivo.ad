@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 37,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 37,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 66,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 66,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 42,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 42,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 66,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 66,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 48,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 48,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 62,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 62,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 33,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 33,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 37,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\values-zh-rTW\\game_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 37,
+                        "endOffset": 133
+                    }
+                }
+            }
+        ]
+    }
+]

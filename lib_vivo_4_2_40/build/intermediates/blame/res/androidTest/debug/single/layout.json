@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_login_dialog_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_login_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_user_feedback.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_user_feedback.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_edit_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_edit_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_edit_commit_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_edit_commit_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_more.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_popup_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_popup_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_add_sub_account_view.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_add_sub_account_view.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_account_register.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_account_register.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_popwin.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_popwin.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_alert_dialog_install.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_alert_dialog_install.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\check_dialog.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\check_dialog.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_alert_dialog_continue_pay.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_alert_dialog_continue_pay.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_game_card.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_game_card.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_account_findpassword.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_account_findpassword.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_card_s.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_card_s.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_account_logindialog.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_account_logindialog.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_listview_header.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_listview_header.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\game_info_more_category_grid_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\game_info_more_category_grid_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_add_commit_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_add_commit_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_payment_title.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_payment_title.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\greet_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\greet_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_card.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_card.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_select_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_select_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_vcoinchoice.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_vcoinchoice.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_listview_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_listview_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_find_que_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_find_que_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_listview.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_listview.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_pay_succ_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_pay_succ_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\data_item_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\data_item_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_install_dialog_message.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_install_dialog_message.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_pay_ed.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_pay_ed.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_bar_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_bar_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_list_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_list_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_account_personal_center_layout_land.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_account_personal_center_layout_land.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_feed_back_image_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_feed_back_image_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_phone_register_commit_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_phone_register_commit_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\game_info_more_category_grid_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\game_info_more_category_grid_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_temp_update_dialog_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_temp_update_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_register_phone_setpwd.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_register_phone_setpwd.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_account_personal_center_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_account_personal_center_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_deal_record_detail_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_deal_record_detail_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\float_view_window_bg_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\float_view_window_bg_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_webview_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_commit_user_contact_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_commit_user_contact_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_set_password.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_set_password.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_multiaction_dlg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_multiaction_dlg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_payment_s.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_payment_s.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_card_amount_lt_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_card_amount_lt_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_detect_result_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_detect_result_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_registe_protocol.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_registe_protocol.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_user_info_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_user_info_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_card_amount_dx_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_card_amount_dx_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_ticket_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_ticket_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\float_window_small.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\float_window_small.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_recharge.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_recharge.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_alert_dialog_continue_pay_s.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_alert_dialog_continue_pay_s.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_commit_user_identify_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_commit_user_identify_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_register_way_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_register_way_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_alert_dialog_update.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_alert_dialog_update.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_ticket.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_ticket.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_upgrade_dialog_message.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_upgrade_dialog_message.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_common_dialog.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_common_dialog.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_deal_record_item_view.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_deal_record_item_view.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_check_dialog.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_check_dialog.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\common_listview.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\common_listview.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_channel_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_channel_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_card_amount_yd_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_card_amount_yd_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_alert_dialog_payfail.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_alert_dialog_payfail.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_loading_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_loading_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_register_email_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_register_email_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_multiaction_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_multiaction_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_account_login.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_account_login.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_subaccount_edit_item_view.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_subaccount_edit_item_view.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_deal_record_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_deal_record_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bind_question.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bind_question.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_pay_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_pay_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_phone_register_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_phone_register_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bind_phone.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bind_phone.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\game_info_more_list_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\game_info_more_list_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_sub_edit_item_view.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_sub_edit_item_view.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_action_details_context.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_action_details_context.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_menu_list_item.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_footer.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_footer.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_listview_footer.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_listview_footer.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_verify_phone_num.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_verify_phone_num.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\vivo_loading_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\vivo_loading_layout.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_action_details_dialog.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_action_details_dialog.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_popwin_s.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_popwin_s.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\change_password.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\common_loading_view.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\common_loading_view.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_no_network_dialog.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_no_network_dialog.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bbk_activity_payment.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\bbk_activity_payment.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\game_info_more_category_layout.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\layout\\game_info_more_category_layout.xml"
+    }
+]

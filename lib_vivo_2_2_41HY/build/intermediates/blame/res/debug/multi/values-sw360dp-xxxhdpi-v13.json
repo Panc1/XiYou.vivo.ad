@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-xxxhdpi-v13\\values-sw360dp-xxxhdpi-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\bbk_dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 55,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 46,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 46,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 46,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 46,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 46,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 46,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 46,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 46,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 46,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 46,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 46,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 46,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 46,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 46,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 46,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 46,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 46,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_2_2_41HY\\src\\main\\res\\values-sw360dp-xxxhdpi\\vivo_dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 46,
+                        "endOffset": 258
+                    }
+                }
+            }
+        ]
+    }
+]

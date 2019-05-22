@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">幻想西游联盟</string>
+    <string name="prompt">プロンプト</string>
+    <string name="exit_message">ゲームを終了?</string>
+    <string name="get_it_on_googleplay">Google Playで入手する</string>
+    <string name="ok">OK</string>
+    <string name="cancel">キャンセル</string>
+    <string name="exit_game">ゲームを終了</string>
+    <string name="exit_game_outofmemory">メモリ不足，ゲームを終了して再起動してください</string>
+    <string name="detectCheatingApp">検出された不正なソフトウェアが実行されている、ゲームは終了します!</string>
+
+</resources>

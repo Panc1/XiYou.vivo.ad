@@ -1,0 +1,2 @@
+﻿DataUCode
+{"appId":"04f8dd32dec60f5e45ad1a1786029489","cpId":"20151231120936039938","cpKey":"b7b11157a86fe74efb5e0923fe9d8922"}

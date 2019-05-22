@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">幻想西游联盟</string>
+    <string name="prompt">提示</string>
+    <string name="exit_message">是否退出游戏？</string>
+    <string name="get_it_on_googleplay">从GooglePlay下载</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="exit_game">退出游戏</string>
+    <string name="exit_game_outofmemory">内存不足，请退出游戏并重新启动！</string>
+    <string name="detectCheatingApp">检测到作弊应用正在运行，游戏将自动退出！</string>
+
+</resources>

@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:7:5-10:12
+MERGED from [com.android.support:multidex:1.0.1] G:\SDK\sdk\.android\build-cache\57f52c080950a72f495b13eb986495dcecf2fa60\output\AndroidManifest.xml:18:5-42
+MERGED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:7:5-9:41
+MERGED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:12:5-53
+	android:largeScreens
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:12:23-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:15:22-63
+uses-permission#android.permission.INTERNET
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:20:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:24:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:26:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:28:22-77
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:29:22-65
+uses-permission#com.bbk.account.permission.READ_ACCOUNTINFO
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:30:5-83
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:30:22-80
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:32:22-78
+uses-permission#vivo.game.permission.OPEN_JUMP_INTENTS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:34:5-78
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:34:22-75
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:37:5-75
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:37:22-72
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:38:22-80
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:39:22-71
+application
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:41:5-72:19
+MERGED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:11:5-59:19
+MERGED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:11:5-52:19
+	android:label
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:44:9-41
+	android:icon
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:43:9-50
+	android:allowBackup
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:11:18-44
+	android:isGame
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:45:9-30
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:42:9-46
+meta-data#android.max_aspect
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:47:9-49:35
+	android:value
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:49:13-32
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:48:13-46
+activity#com.game.GameActivity
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:51:9-63:20
+	android:screenOrientation
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:56:13-50
+	android:label
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:54:13-45
+	android:launchMode
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:55:13-44
+	android:configChanges
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:53:13-74
+	android:theme
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:52:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:61:27-74
+activity#com.vivo.ad.SplashActivity
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:screenOrientation
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:65:13-54
+meta-data#channelId
+ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:68:9-70:39
+	android:value
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:70:13-36
+	android:name
+		ADDED from E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\src\main\AndroidManifest.xml:69:13-37
+activity#com.baidu.mobads.AppActivity
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:14:9-17:75
+	android:configChanges
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:16:13-72
+	android:theme
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:17:13-72
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:15:13-56
+provider#com.baidu.mobads.openad.FileProvider
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:20:9-28:20
+	android:authorities
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:22:13-67
+	android:grantUriPermissions
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:24:13-47
+	android:exported
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:21:13-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:25:13-27:57
+	android:resource
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:27:17-54
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:26:17-67
+service#com.qq.e.comm.DownloadService
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:34:13-57
+activity#com.qq.e.ads.ADActivity
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:37:9-39:86
+	android:configChanges
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:39:13-83
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:38:13-51
+provider#android.support.v4.content.FileProvider
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:42:9-50:20
+	android:authorities
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:44:13-68
+	android:grantUriPermissions
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:46:13-47
+	android:exported
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:43:13-67
+activity#com.vivo.mobilead.web.VivoADSDKWebView
+ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:53:9-56:20
+	android:screenOrientation
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from [:vivoad-gd_v1.1.2:] G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\AndroidManifest.xml:54:13-66
+meta-data#APP_MONITOR_APPID
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:25:9-27:38
+	android:value
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:27:13-35
+	android:name
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:26:13-45
+meta-data#vivo_union_sdk
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:28:9-30:39
+	android:value
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:29:13-42
+activity#com.vivo.unionsdk.ui.UnionActivity
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:34:9-49:20
+	android:configChanges
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:36:13-85
+	android:theme
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:35:13-62
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:38:13-48:29
+action#android.intent.action.VIEW
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:41:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:42:27-75
+data
+ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:44:17-47:50
+	android:path
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:46:21-45
+	android:host
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:45:21-50
+	android:scheme
+		ADDED from [20190128:lib_vivo_4_2_40:unspecified] E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\AndroidManifest.xml:47:21-47

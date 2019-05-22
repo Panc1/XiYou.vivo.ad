@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vivounionsdk_v4.2.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_vivo_4_2_40/libs/vivounionsdk_v4.2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

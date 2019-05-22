@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuickDevelop2D_Engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/QuickDevelop2D_Engine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

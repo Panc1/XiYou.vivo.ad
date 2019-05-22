@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">幻想西游联盟</string>
+    <string name="prompt">prompt</string>
+    <string name="exit_message">Exit Game?</string>
+    <string name="get_it_on_googleplay">Get it on Google Play</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="exit_game_outofmemory">Out of memory, please exit the game and restart!</string>
+    <string name="detectCheatingApp">Detected cheating software is running, the game will exit!</string>
+
+</resources>

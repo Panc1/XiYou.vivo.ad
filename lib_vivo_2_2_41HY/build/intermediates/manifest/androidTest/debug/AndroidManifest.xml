@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.other.sdk.test" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.other.sdk.test"
+        android:targetPackage="com.other.sdk.test" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application android:allowBackup="true" >
+        <uses-library android:name="android.test.runner" />
+        <!-- vivo begin -->
+        <!-- vivo activity support portrait and landscape begin -->
+        <activity
+            android:name="com.gugame.othersdk.VIVOPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/vivo_app_name"
+            android:screenOrientation="landscape"
+            android:theme="@style/vivo_animation_transparent" />
+
+        <meta-data
+            android:name="APP_MONITOR_APPID"
+            android:value="b1002c" />
+        <meta-data
+            android:name="vivo_union_sdk"
+            android:value="2.2.41" /> <!-- vivo sdk componets start -->
+        <!-- vivo sdk的Activity -->
+        <activity
+            android:name="com.vivo.unionsdk.ui.UnionActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="union.vivo.com"
+                    android:path="/openjump"
+                    android:scheme="vivounion" />
+            </intent-filter>
+        </activity> <!-- 微信支付回调Activity -->
+        <activity
+            android:name="com.gzwz.xiyou.vivo.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- QQ钱包支付回调Activity,data属性中的scheme需要替换为qwallet+包名 -->
+        <activity
+            android:name="com.vivo.sdkplugin.payment.qqpay.VivoQQPayResultActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="qwalletcom.gzwz.xiyou.vivo" />
+            </intent-filter>
+        </activity> <!-- 银联支付的Activity -->
+        <activity
+            android:name="com.unionpay.uppay.PayActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:excludeFromRecents="true"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.unionpay.UPPayWapActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustResize" />
+
+        <uses-library
+            android:name="org.simalliance.openmobileapi"
+            android:required="false" /> <!-- 支付宝支付的Activity -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" /> <!-- 支付宝支付的Activity -->
+        <activity
+            android:name="com.alipay.sdk.auth.AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind" />
+    </application>
+
+</manifest>

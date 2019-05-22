@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_northeast_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_northeast_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon3.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon3.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_edit_all_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_edit_all_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_next_pay.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_next_pay.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_per_center_close_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_per_center_close_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_list_item_arrow_add.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_list_item_arrow_add.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_ticket_bg_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_ticket_bg_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_temp_update_cancel_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_temp_update_cancel_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_all_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_all_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\commit_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\commit_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_btn_default_s.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_btn_default_s.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_common_download_btn_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_common_download_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_left_temp_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_left_temp_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\stat_backup.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\stat_backup.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_upgrade_progress_indeterminate_horizontal.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_upgrade_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\insert_tip_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\insert_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\del_tip_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\del_tip_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_checkbox_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_checkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon1.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon1.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_rechargeamount_text_bg2.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_rechargeamount_text_bg2.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon31.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon31.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_top_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_top_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\preference_middle.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\preference_middle.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_card_tab_left.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_card_tab_left.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_game_notice_check_box_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_game_notice_check_box_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_pay_amount_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_pay_amount_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_account_change_text_color_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_account_change_text_color_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_submit_dialog_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_submit_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_rechargeamount_text_bg3.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_rechargeamount_text_bg3.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_upgrade_dialog_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_upgrade_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_bg_north_west_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_bg_north_west_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_onekey_regist_progress.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_onekey_regist_progress.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_btn_default.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_btn_default.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_check_box_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_check_box_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_time_out.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_time_out.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_list_item_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_btn_back_game.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_btn_back_game.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_bbk_title_back.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_bbk_title_back.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_bottom_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_bottom_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_clean_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_clean_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_northwest_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_northwest_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_title_tab_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_title_tab_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_left_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_left_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon33.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon33.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_login_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_login_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_bg_south_east_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_bg_south_east_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_sub_account_foot_view_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_sub_account_foot_view_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_cancel_dialog_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_cancel_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_his_down_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_his_down_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_register_color_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_register_color_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_next_arrow.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_next_arrow.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\preference_top_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\preference_top_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_bg_all_squre_bottom.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_bg_all_squre_bottom.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_action_dialog_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_action_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_radion_box_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_radion_box_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_vcoinchoice_btn_default.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_vcoinchoice_btn_default.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon2.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon2.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_card_amount_item_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_card_amount_item_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progressbar_loading.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\progressbar_loading.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_btn_default_small.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_btn_default_small.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_title_tab_left.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_title_tab_left.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_southwest_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_southwest_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_action_list_item_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_action_list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_upgrade_checkbox_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_upgrade_checkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_info_more_list_category_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_info_more_list_category_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_question_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_question_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_register_onekey_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_register_onekey_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_progress_indeterminate_horizontal.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_ques_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_ques_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_read_protocol_color.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_read_protocol_color.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_btn_submit.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_btn_submit.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon21.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon21.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_bg_north_east_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_bg_north_east_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_sub_edit_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_sub_edit_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_btn_dialog_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_btn_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_check_box.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_check_box.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_bg_south_west_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_bg_south_west_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_right_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_right_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_upgrade_progress_horizontal.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_upgrade_progress_horizontal.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_edittext_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_edittext_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_register_other_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_register_other_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_login_color_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_login_color_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_his_up_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_his_up_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_edit_southeast_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_edit_southeast_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_rechargeamount_text_bg4.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_rechargeamount_text_bg4.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_upgrade_dialog_cancel_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_upgrade_dialog_cancel_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\preference_bottom_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\preference_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_background_icon23.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_background_icon23.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\giftcertificate_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\giftcertificate_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_list_item_arrow_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_list_item_arrow_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_acc_label_all_round.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_acc_label_all_round.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_feed_commit_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_feed_commit_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_progressbar_loading.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_progressbar_loading.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_sec_login_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_sec_login_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_func_item_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_func_item_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\float_view_window_bg_item_drawable.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\float_view_window_bg_item_drawable.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_bg_all_squre_top.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_bg_all_squre_top.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_medium.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_medium.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_upgrade_dialog_ok_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_upgrade_dialog_ok_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_sub_item_default_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_sub_item_default_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_right_temp_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_right_temp_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_btn_title_back.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_btn_title_back.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_switch_sub_btn.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_switch_sub_btn.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_list_item_bg_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_list_item_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_get_verify_code_drawable.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_get_verify_code_drawable.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_bbk_title_normal.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_bbk_title_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_deal_record_item_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_deal_record_item_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_card_tab_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_card_tab_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_rechargeamount_text_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_rechargeamount_text_bg.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\check_box_button.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\check_box_button.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_account_change_button_drawable.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_account_change_button_drawable.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_action_details_cancel.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_action_details_cancel.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_sub_account_foot_view_bg_land.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_sub_account_foot_view_bg_land.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_btn_editor_delete.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_btn_editor_delete.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_ticket_bg_left.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_ticket_bg_left.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_listview_item_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_listview_item_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_btn_title_normal.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_btn_title_normal.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_progress_horizontal.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_progress_horizontal.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_btn_back.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_btn_back.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\game_list_item_touch_or_not.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\game_list_item_touch_or_not.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_title_tab_center.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_title_tab_center.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bbk_card_tab_center.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\bbk_card_tab_center.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_checkbox.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_checkbox.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vivo_sub_list_edit_bg.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\debug\\res\\drawable\\vivo_sub_list_edit_bg.xml"
+    }
+]

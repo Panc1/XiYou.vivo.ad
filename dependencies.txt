@@ -1,0 +1,128 @@
+Starting a Gradle Daemon (subsequent builds will be faster)
+Download https://jcenter.bintray.com/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.pom
+Download https://jcenter.bintray.com/org/ow2/ow2/1.3/ow2-1.3.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.build/0.7.5.201505241946/org.jacoco.build-0.7.5.201505241946.pom
+Download https://jcenter.bintray.com/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.pom
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.pom
+Download https://jcenter.bintray.com/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.pom
+Download https://jcenter.bintray.com/com/google/protobuf/protobuf-parent/3.0.0/protobuf-parent-3.0.0.pom
+Download https://jcenter.bintray.com/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+Download https://jcenter.bintray.com/com/google/google/1/google-1.pom
+Download https://jcenter.bintray.com/org/antlr/antlr/3.5.2/antlr-3.5.2.pom
+Download https://jcenter.bintray.com/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom
+Download https://jcenter.bintray.com/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+Download https://jcenter.bintray.com/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.pom
+Download https://jcenter.bintray.com/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.pom
+Download https://jcenter.bintray.com/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.pom
+Download https://jcenter.bintray.com/com/squareup/javawriter/2.5.0/javawriter-2.5.0.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.pom
+Download https://jcenter.bintray.com/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.pom
+Download https://jcenter.bintray.com/com/google/guava/guava/18.0/guava-18.0.pom
+Download https://jcenter.bintray.com/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
+Download https://jcenter.bintray.com/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.pom
+Download https://jcenter.bintray.com/commons-io/commons-io/2.4/commons-io-2.4.pom
+Download https://jcenter.bintray.com/org/antlr/antlr4/4.5.3/antlr4-4.5.3.pom
+Download https://jcenter.bintray.com/com/android/tools/annotations/24.5.0/annotations-24.5.0.pom
+Download https://jcenter.bintray.com/org/antlr/antlr4-master/4.5.3/antlr4-master-4.5.3.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/25/commons-parent-25.pom
+Download https://jcenter.bintray.com/org/apache/apache/9/apache-9.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-parent/5.0.1/asm-parent-5.0.1.pom
+Download https://jcenter.bintray.com/org/antlr/ST4/4.0.8/ST4-4.0.8.pom
+Download https://jcenter.bintray.com/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.1/httpcomponents-client-4.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-client/4.1.1/httpcomponents-client-4.1.1.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/33/commons-parent-33.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/project/4.1.1/project-4.1.1.pom
+Download https://jcenter.bintray.com/org/apache/apache/13/apache-13.pom
+Download https://jcenter.bintray.com/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.pom
+Download https://jcenter.bintray.com/com/intellij/annotations/12.0/annotations-12.0.pom
+Download https://jcenter.bintray.com/com/google/jimfs/jimfs/1.1/jimfs-1.1.pom
+Download https://jcenter.bintray.com/com/google/jimfs/jimfs-parent/1.1/jimfs-parent-1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.pom
+Download https://jcenter.bintray.com/commons-codec/commons-codec/1.4/commons-codec-1.4.pom
+Download https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcomponents-core/4.1/httpcomponents-core-4.1.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/11/commons-parent-11.pom
+Download https://jcenter.bintray.com/org/apache/commons/commons-parent/5/commons-parent-5.pom
+Download https://jcenter.bintray.com/org/apache/apache/4/apache-4.pom
+Download https://jcenter.bintray.com/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.pom
+Download https://jcenter.bintray.com/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.report/0.7.5.201505241946/org.jacoco.report-0.7.5.201505241946.jar
+Download https://jcenter.bintray.com/org/jacoco/org.jacoco.core/0.7.5.201505241946/org.jacoco.core-0.7.5.201505241946.jar
+Download https://jcenter.bintray.com/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar
+Download https://jcenter.bintray.com/com/google/protobuf/protobuf-java/3.0.0/protobuf-java-3.0.0.jar
+Download https://jcenter.bintray.com/org/antlr/antlr/3.5.2/antlr-3.5.2.jar
+Download https://jcenter.bintray.com/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar
+Download https://jcenter.bintray.com/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar
+Download https://jcenter.bintray.com/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar
+Download https://jcenter.bintray.com/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar
+Download https://jcenter.bintray.com/org/eclipse/jdt/core/compiler/ecj/4.6.1/ecj-4.6.1.jar
+Download https://jcenter.bintray.com/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar
+Download https://jcenter.bintray.com/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar
+Download https://jcenter.bintray.com/com/google/guava/guava/18.0/guava-18.0.jar
+Download https://jcenter.bintray.com/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar
+Download https://jcenter.bintray.com/commons-io/commons-io/2.4/commons-io-2.4.jar
+Download https://jcenter.bintray.com/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar
+Download https://jcenter.bintray.com/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar
+Download https://jcenter.bintray.com/org/antlr/ST4/4.0.8/ST4-4.0.8.jar
+Download https://jcenter.bintray.com/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar
+Download https://jcenter.bintray.com/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+Download https://jcenter.bintray.com/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar
+Download https://jcenter.bintray.com/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar
+Download https://jcenter.bintray.com/com/intellij/annotations/12.0/annotations-12.0.jar
+Download https://jcenter.bintray.com/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar
+Download https://jcenter.bintray.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+Download https://jcenter.bintray.com/commons-codec/commons-codec/1.4/commons-codec-1.4.jar
+Download https://jcenter.bintray.com/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar
+
+> Configure project :app
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to G:\SDK\sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+Observed package id 'add-ons;addon-google_apis-google-19' in inconsistent location 'G:\SDK\sdk\add-ons\addon-google_apis-google-19-1' (Expected 'G:\SDK\sdk\add-ons\addon-google_apis-google-19')
+Observed package id 'build-tools;26.0.0-rc2' in inconsistent location 'G:\SDK\sdk\build-tools\26.0.0-preview' (Expected 'G:\SDK\sdk\build-tools\26.0.0-rc2')
+Observed package id 'build-tools;28.0.0-rc2' in inconsistent location 'G:\SDK\sdk\build-tools\28.0.0-preview' (Expected 'G:\SDK\sdk\build-tools\28.0.0-rc2')
+Observed package id 'build-tools;20.0.0' in inconsistent location 'G:\SDK\sdk\build-tools\android-4.4W' (Expected 'G:\SDK\sdk\build-tools\20.0.0')
+Observed package id 'add-ons;addon-google_apis-google-19' in inconsistent location 'G:\SDK\sdk\add-ons\addon-google_apis-google-19-1' (Expected 'G:\SDK\sdk\add-ons\addon-google_apis-google-19')
+Observed package id 'build-tools;26.0.0-rc2' in inconsistent location 'G:\SDK\sdk\build-tools\26.0.0-preview' (Expected 'G:\SDK\sdk\build-tools\26.0.0-rc2')
+Observed package id 'build-tools;28.0.0-rc2' in inconsistent location 'G:\SDK\sdk\build-tools\28.0.0-preview' (Expected 'G:\SDK\sdk\build-tools\28.0.0-rc2')
+Observed package id 'build-tools;20.0.0' in inconsistent location 'G:\SDK\sdk\build-tools\android-4.4W' (Expected 'G:\SDK\sdk\build-tools\20.0.0')
+
+> Configure project :lib_vivo_2_2_41HY
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to G:\SDK\sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+
+> Task :dependencies
+
+------------------------------------------------------------
+Root project
+------------------------------------------------------------
+
+No configurations
+
+A web-based, searchable dependency report is available by adding the --scan option.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0.
+Use '--warning-mode all' to show the individual deprecation warnings.
+See https://docs.gradle.org/4.9/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 6m 15s
+1 actionable task: 1 executed

@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="bbk_game_card_type">
+        <item>"10元"</item>
+        <item>"15元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"55元"</item>
+        <item>"100元"</item>
+        <item>"200元"</item>
+        <item>"500元"</item>
+        <item>"1000元"</item>
+    </string-array>
+    <array name="bbk_payment_type">
+        <item>@string/bbk_uppay</item>
+        <item>@string/bbk_alipay</item>
+        <item>@string/bbk_tencent</item>
+        <item>@string/bbk_card</item>
+    </array>
+    <array name="bbk_payment_type_icons">
+        <item>@drawable/bbk_uppay</item>
+        <item>@drawable/bbk_alipay</item>
+        <item>@drawable/bbk_tencent</item>
+        <item>@drawable/bbk_card</item>
+    </array>
+    <array name="bbk_payment_type_icons_s">
+        <item>@drawable/bbk_weixin</item>
+        <item>@drawable/bbk_alipay</item>
+        <item>@drawable/bbk_uppay</item>
+        <item>@drawable/bbk_tencent</item>
+        <item>@drawable/bbk_card</item>
+    </array>
+    <array name="bbk_payment_type_s">
+        <item>@string/bbk_weixin</item>
+        <item>@string/bbk_alipay</item>
+        <item>@string/bbk_uppay</item>
+        <item>@string/bbk_tencent</item>
+        <item>@string/bbk_card_s</item>
+    </array>
+    <string-array name="bbk_phone_card_type_dx">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"300元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_dx_s">
+        <item>"50元"</item>
+        <item>"100元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_lt">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"200元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_lt_s">
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_yd">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"200元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_yd_s">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <color name="BgColor">#ffd1dce9</color>
+    <color name="TextColorBlack">#ff313131</color>
+    <color name="TextColorBlack_s">#ff000000</color>
+    <color name="TextColorRed">#c8161d</color>
+    <color name="TextColorRed_s">#ffe26926</color>
+    <color name="background">#eeeeee</color>
+    <color name="bbk_TextColorWhite">#ffffffff</color>
+    <color name="bbk_btn_submit_textcolor">#FFFFFF</color>
+    <color name="bbk_channel_activity_desc_textcolor">#999999</color>
+    <color name="bbk_channel_activity_type_textcolor">#ff210a</color>
+    <color name="bbk_dlg_window_bg">#99000000</color>
+    <color name="bbk_listitem_textcolor">#333333</color>
+    <color name="bbk_loading_textcolor">#999999</color>
+    <color name="bbk_product_name">#008be3</color>
+    <color name="bbk_ticket_amount_disable_textcolor">#bfbfbf</color>
+    <color name="bbk_ticket_amount_enable_textcolor">#ffffff</color>
+    <color name="bbk_ticket_color">#5b5b5b</color>
+    <color name="bbk_ticket_unit_disable_textcolor">#bfbfbf</color>
+    <color name="bbk_ticket_unit_enable_textcolor">#dcf2ff</color>
+    <color name="bbk_title_textcolor">#000000</color>
+    <color name="black">#000000</color>
+    <color name="black_end">#181818</color>
+    <color name="black_start">#333333</color>
+    <color name="blue_badges_mayor">#095b72</color>
+    <color name="blue_end">#0f93b8</color>
+    <color name="blue_start">#0f93b8</color>
+    <color name="brower_button_bg">#DEDEDE</color>
+    <color name="card_amount_item_bg">#008bd2</color>
+    <color name="card_amount_item_bg_unclickable">#eaeaea</color>
+    <color name="card_num_pwd_text">#313131</color>
+    <color name="card_pay_title_bg">#f4f4f4</color>
+    <color name="card_pay_title_line">#b3b3b3</color>
+    <color name="card_text">#313131</color>
+    <color name="card_text_s">#535353</color>
+    <color name="card_text_tip">#999999</color>
+    <color name="card_text_tip_s">#949494</color>
+    <color name="color_bright_green">#a6da00</color>
+    <color name="color_score_list_adapter_highlight">#EEEEEE</color>
+    <color name="color_score_mayor_section_background">#DDDDDD</color>
+    <color name="customer_text_tip">#343434</color>
+    <color name="deal_list_item_seleted">#ececec</color>
+    <color name="deal_notice">#3baaed</color>
+    <color name="deal_notice_layout">#cfeefe</color>
+    <color name="deal_pay_type">#008bd2</color>
+    <color name="deal_recharge_type">#fd5051</color>
+    <color name="dgrey_end">#2C3137</color>
+    <color name="dgrey_start">#4E4F50</color>
+    <color name="game_card_tip">#90969a</color>
+    <color name="game_list_item_pressed_color">#e5e5e5</color>
+    <color name="grey_end">#8C9DAE</color>
+    <color name="grey_start">#CBCBCB</color>
+    <color name="half_transparent">#66000000</color>
+    <color name="item_grey_end">#62707C</color>
+    <color name="item_grey_start">#B4B8BA</color>
+    <color name="lgrey_end">#AEB2B7</color>
+    <color name="lgrey_start">#BFC0C0</color>
+    <color name="list_item_bg">#fff4f4f4</color>
+    <color name="list_item_pressed_color">#e5e5e5</color>
+    <color name="preference_background_color">#f4f4f4</color>
+    <color name="preference_text_main_color">#393e41</color>
+    <color name="preference_text_sub_color">#90969a</color>
+    <color name="purple_end">#5d2761</color>
+    <color name="purple_start">#9b256b</color>
+    <color name="recharge_list_item_color">#008be3</color>
+    <color name="tip_detail_actions_background">#c7c7c7</color>
+    <color name="titletextcolor">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="user_details_activity_general">#FF555555</color>
+    <color name="vivo_account_change_text_color">#8e8c8c</color>
+    <color name="vivo_account_change_text_color_selected">#555555</color>
+    <color name="vivo_account_lable_text_color">#ffffff</color>
+    <color name="vivo_black">#000000</color>
+    <color name="vivo_common_bg_color">#009CFF</color>
+    <color name="vivo_common_dialog_title_text_color">#ff333333</color>
+    <color name="vivo_deep_blue_color">#0068b7</color>
+    <color name="vivo_edit_bg_color">#ffffff</color>
+    <color name="vivo_edit_line_bg_color">#cecece</color>
+    <color name="vivo_edit_view_line">#e2e2e2</color>
+    <color name="vivo_gray_color">#c3c8cb</color>
+    <color name="vivo_list_item_color">#FFFFFF</color>
+    <color name="vivo_listview_item_default">#00F7F7F7</color>
+    <color name="vivo_ltgray">#FFCCCCCC</color>
+    <color name="vivo_onekey_regist_tips">#77c6f0</color>
+    <color name="vivo_person_center_black_bg">#272626</color>
+    <color name="vivo_que_popup_bg">#272529</color>
+    <color name="vivo_regist_commit_left">#666666</color>
+    <color name="vivo_select_ticket_color">#ff8F979A</color>
+    <color name="vivo_small_window_title">#000000</color>
+    <color name="vivo_sub_account_role">#989898</color>
+    <color name="vivo_sub_notice">#999999</color>
+    <color name="vivo_sub_notice_left_1">#008bd2</color>
+    <color name="vivo_sub_notice_left_2">#333333</color>
+    <color name="vivo_temp_update_cancel">#5b5b5b</color>
+    <color name="vivo_text_colcor_1">#00caff</color>
+    <color name="vivo_text_color_login_color">#d2d7e8</color>
+    <color name="vivo_text_color_login_color_selected">#4cd2d7e8</color>
+    <color name="vivo_text_color_login_lable">#5c5c5c</color>
+    <color name="vivo_text_color_middle">#000000</color>
+    <color name="vivo_text_color_register_color">#00aeff</color>
+    <color name="vivo_text_color_register_color_selected">#4c00aeff</color>
+    <color name="vivo_text_color_small">#818181</color>
+    <color name="vivo_text_selected_color">#016091</color>
+    <color name="vivo_text_unclick_color">#90969a</color>
+    <color name="vivo_text_unselect_color">#008bd2</color>
+    <color name="vivo_title_click_color">#757575</color>
+    <color name="vivo_title_color">#00aeff</color>
+    <color name="vivo_upgrade_activity_titlebar_color">#ff0ea0fd</color>
+    <color name="vivo_upgrade_blue">#ff008eef</color>
+    <color name="vivo_upgrade_hot_app_title_color">#000000</color>
+    <color name="vivo_upgrade_hot_apps_size_text_color">#a7a7a7</color>
+    <color name="vivo_upgrade_manage_update_line_color">#ffd9d9d9</color>
+    <color name="vivo_upgrade_update_dialog_progress_text_color">#ff333333</color>
+    <color name="vivo_upgrade_white">#ffffffff</color>
+    <color name="vivo_white">#ffffff</color>
+    <color name="vivo_windowTitleColor">#ff000000</color>
+    <color name="vivo_windowTitleShadowColor">#00494d59</color>
+    <color name="vivo_windowTitlleButtonShadowColor">#ff00aeff</color>
+    <color name="vlgrey">#EEEEEE</color>
+    <color name="white">#ffffff</color>
+    <color name="window_bg">#fff0f3f6</color>
+    <declare-styleable name="VivoTheme"><attr format="integer" name="windowStatusbarBackground"/><attr format="boolean" name="viewCallbackFlag"/><attr format="boolean" name="bbkstylebackground"/><attr format="reference" name="bbkwindowTitleBackgroundStyle"/><attr format="reference" name="bbkWindowTitleStyle"/><attr format="reference" name="bbkTitleButtonStyle"/><attr format="reference" name="bbkTabwigetSelectBackground"/><attr format="reference" name="bbkTabwigetUnSelectedBackground"/><attr format="reference" name="bbkMarkupButtonStyle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="assist_gridview_columnwidth_width">90dp</dimen>
+    <dimen name="assist_textview_height">50dp</dimen>
+    <dimen name="assist_textview_width">50dp</dimen>
+    <dimen name="bbkDailogItemTextSize">16sp</dimen>
+    <dimen name="bbk_action_cancel_id_marginRight">13dp</dimen>
+    <dimen name="bbk_action_list_height">230dip</dimen>
+    <dimen name="bbk_action_paddingLeft">15dip</dimen>
+    <dimen name="bbk_activity_desc_marginRight">20dip</dimen>
+    <dimen name="bbk_btn_back_marginLeft">13dip</dimen>
+    <dimen name="bbk_btn_submit_height">41dip</dimen>
+    <dimen name="bbk_btn_submit_marginLeftRight">18dip</dimen>
+    <dimen name="bbk_btn_submit_textsize">16sp</dimen>
+    <dimen name="bbk_card_amount_textsize">16sp</dimen>
+    <dimen name="bbk_card_layout_tips_height">112dip</dimen>
+    <dimen name="bbk_card_number_delete_width">41dip</dimen>
+    <dimen name="bbk_card_passwd_delete_width">21dip</dimen>
+    <dimen name="bbk_card_passwd_eye_width">39dip</dimen>
+    <dimen name="bbk_card_support_size">12sp</dimen>
+    <dimen name="bbk_card_type_size_s">16sp</dimen>
+    <dimen name="bbk_channel_activity_desc_textsize">11sp</dimen>
+    <dimen name="bbk_channel_activity_type_textsize">8sp</dimen>
+    <dimen name="bbk_channel_bottom_item_height">64dip</dimen>
+    <dimen name="bbk_channel_icon_maginLeft">13dip</dimen>
+    <dimen name="bbk_channel_item_height">40dip</dimen>
+    <dimen name="bbk_customor_service_marginLeftRight">19dip</dimen>
+    <dimen name="bbk_customor_size">12sp</dimen>
+    <dimen name="bbk_detect_result_btn_marginLeftRight">13dip</dimen>
+    <dimen name="bbk_dialog_title_height">50dp</dimen>
+    <dimen name="bbk_dlg_btn_submit_marginLeftRight">13dip</dimen>
+    <dimen name="bbk_dlg_margin_left_right">13dip</dimen>
+    <dimen name="bbk_dlg_padding_left_right">7dip</dimen>
+    <dimen name="bbk_dlg_title_height">45dip</dimen>
+    <dimen name="bbk_game_notice_btn_paddingLeft">15dip</dimen>
+    <dimen name="bbk_giftcertificate_icon_invalid2_marginBottom">10dip</dimen>
+    <dimen name="bbk_invalidicon_marginLeft">3dip</dimen>
+    <dimen name="bbk_layout_ticket_marginTop">12dip</dimen>
+    <dimen name="bbk_line_space">2dip</dimen>
+    <dimen name="bbk_listitem_height">50dip</dimen>
+    <dimen name="bbk_listitem_textsize">16sp</dimen>
+    <dimen name="bbk_loading_texthint_marginLeft">5dip</dimen>
+    <dimen name="bbk_max_item_total_height">230dip</dimen>
+    <dimen name="bbk_more_channel_marginTop_landscape">5dip</dimen>
+    <dimen name="bbk_more_channel_marginTop_portrait">10dip</dimen>
+    <dimen name="bbk_multiaction_dlg_width">310dip</dimen>
+    <dimen name="bbk_order_content_marginTop_landscape">3dip</dimen>
+    <dimen name="bbk_order_content_marginTop_portrait">3dip</dimen>
+    <dimen name="bbk_pay_btn_marginBottom">5dip</dimen>
+    <dimen name="bbk_pay_btn_submit_height">39dip</dimen>
+    <dimen name="bbk_pay_submit_btn_marginTop">8dip</dimen>
+    <dimen name="bbk_pay_type_height">38dp</dimen>
+    <dimen name="bbk_pay_type_left">19dp</dimen>
+    <dimen name="bbk_paychenel_margin_top">15dip</dimen>
+    <dimen name="bbk_payicon_marginLeft">7dip</dimen>
+    <dimen name="bbk_payment_dlg_width">310dip</dimen>
+    <dimen name="bbk_paytype_text_size">18sp</dimen>
+    <dimen name="bbk_paytype_tip_text_size">12dip</dimen>
+    <dimen name="bbk_product_paytype_dis">56dp</dimen>
+    <dimen name="bbk_recharge_dlg_height">305dip</dimen>
+    <dimen name="bbk_recharge_dlg_width">310dip</dimen>
+    <dimen name="bbk_rechargeamount_margin_left_right">13dip</dimen>
+    <dimen name="bbk_rechargeamount_text_height">38dip</dimen>
+    <dimen name="bbk_rechargeamount_text_margin_left_right">10dp</dimen>
+    <dimen name="bbk_rechargeamount_text_margin_top">10dp</dimen>
+    <dimen name="bbk_rechargeamount_text_size">14sp</dimen>
+    <dimen name="bbk_rechargeamount_text_tip">13sp</dimen>
+    <dimen name="bbk_rechargeamount_text_width">100dp</dimen>
+    <dimen name="bbk_rechargebtn_margin_bottom">10dip</dimen>
+    <dimen name="bbk_submitbtn_margin_bottom1">14dip</dimen>
+    <dimen name="bbk_submitbtn_margin_bottom2">15dip</dimen>
+    <dimen name="bbk_submitbtn_margin_bottom3">15dip</dimen>
+    <dimen name="bbk_submitbtn_margin_top1">25dip</dimen>
+    <dimen name="bbk_submitbtn_margin_top2">5dip</dimen>
+    <dimen name="bbk_submitbtn_margin_top3">5dip</dimen>
+    <dimen name="bbk_submitbtn_margin_top_bottom">14dip</dimen>
+    <dimen name="bbk_succ_icon_marginTop">87dip</dimen>
+    <dimen name="bbk_textsize_small">13sp</dimen>
+    <dimen name="bbk_tick_layout_width">85dip</dimen>
+    <dimen name="bbk_ticket_amount_textsize">37px</dimen>
+    <dimen name="bbk_ticket_chkbox_paddingLeft">2dip</dimen>
+    <dimen name="bbk_ticket_content_marginTop">3dip</dimen>
+    <dimen name="bbk_ticket_context_textsize">16px</dimen>
+    <dimen name="bbk_ticket_dlg_title_textsize">25px</dimen>
+    <dimen name="bbk_ticket_item_height">101dip</dimen>
+    <dimen name="bbk_ticket_time_marginTop">4dip</dimen>
+    <dimen name="bbk_ticket_time_textsize">12px</dimen>
+    <dimen name="bbk_ticket_title_textsize">19px</dimen>
+    <dimen name="bbk_ticket_unit_textsize">18px</dimen>
+    <dimen name="bbk_title_back_width">53dip</dimen>
+    <dimen name="bbk_title_divider_height">20dip</dimen>
+    <dimen name="bbk_title_divider_maginLeftRight">10dip</dimen>
+    <dimen name="bbk_title_divider_width">1dip</dimen>
+    <dimen name="bbk_title_textsize">17sp</dimen>
+    <dimen name="bbk_useticket_dlg_height">305dip</dimen>
+    <dimen name="bbk_useticket_dlg_width">310dip</dimen>
+    <dimen name="bbk_vcoin_choice_amount_textsize">16sp</dimen>
+    <dimen name="bbk_vcoinchoice_tipsmsg_marginTop">15dip</dimen>
+    <dimen name="bbkwindowTitleHeight">48dip</dimen>
+    <dimen name="card_pay_btn_bottom">40dip</dimen>
+    <dimen name="card_pay_submit_spacing">35dip</dimen>
+    <dimen name="card_pay_title_size">17sp</dimen>
+    <dimen name="card_sumit_left">38dip</dimen>
+    <dimen name="first_view_marginTop">6dip</dimen>
+    <dimen name="list_item_main_margin_top">10dip</dimen>
+    <dimen name="min_move_distance">1dp</dimen>
+    <dimen name="order_top_bar_spacing">10dip</dimen>
+    <dimen name="order_top_bar_spacing_s">40dip</dimen>
+    <dimen name="text_size_middle">18sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="ticket_size_small">12sp</dimen>
+    <dimen name="vcoin_gift_state_marginLeft">9dip</dimen>
+    <dimen name="vcoin_gift_state_marginRight">9dip</dimen>
+    <dimen name="vcoin_gift_state_maxWidth">200dip</dimen>
+    <dimen name="vcoin_ticket_state_marginLeft">13dip</dimen>
+    <dimen name="vcoin_ticket_state_marginTop1">4dp</dimen>
+    <dimen name="vcoin_ticket_state_marginTop2">5dp</dimen>
+    <dimen name="vcoin_ticket_state_marginTop3">3dp</dimen>
+    <dimen name="vcoin_ticketamount_marginTop">42dp</dimen>
+    <dimen name="vivoTitleLeftBtnWidth">77dip</dimen>
+    <dimen name="vivoTitleRightBtnWidth">77dip</dimen>
+    <dimen name="vivo_account_change_margin_left">21dip</dimen>
+    <dimen name="vivo_actionarrow_paddingTop">17dip</dimen>
+    <dimen name="vivo_actionlable_marginTop">15dip</dimen>
+    <dimen name="vivo_changePasswd_label_marginLeft">6dip</dimen>
+    <dimen name="vivo_change_pwd_lable_paddingLeft">12.5dip</dimen>
+    <dimen name="vivo_change_pwd_lable_width">100dip</dimen>
+    <dimen name="vivo_channel_bg_height">45dip</dimen>
+    <dimen name="vivo_channel_bg_width">45dip</dimen>
+    <dimen name="vivo_channeldesc_paddingBottom">3dip</dimen>
+    <dimen name="vivo_edit_container_height">50dip</dimen>
+    <dimen name="vivo_edit_field_paddingLeft">10dip</dimen>
+    <dimen name="vivo_edit_field_paddingRight">12dip</dimen>
+    <dimen name="vivo_feed_margin_top">6dp</dimen>
+    <dimen name="vivo_first_view_marginTop">10dip</dimen>
+    <dimen name="vivo_first_view_marginTop_land">39.4dip</dimen>
+    <dimen name="vivo_green_btn_hight">35dip</dimen>
+    <dimen name="vivo_green_btn_marginLeft">15dip</dimen>
+    <dimen name="vivo_green_btn_marginRight">15dip</dimen>
+    <dimen name="vivo_label_field_marginLeft">0dip</dimen>
+    <dimen name="vivo_label_field_marginRight">3dip</dimen>
+    <dimen name="vivo_label_field_width">80dip</dimen>
+    <dimen name="vivo_login_30px">12px</dimen>
+    <dimen name="vivo_login_33px">13px</dimen>
+    <dimen name="vivo_login_36px">13px</dimen>
+    <dimen name="vivo_login_39px">16px</dimen>
+    <dimen name="vivo_login_42px">18px</dimen>
+    <dimen name="vivo_login_45px">18px</dimen>
+    <dimen name="vivo_login_48px">20px</dimen>
+    <dimen name="vivo_login_54px">20px</dimen>
+    <dimen name="vivo_login_60px">22px</dimen>
+    <dimen name="vivo_small_win_title_51px">17sp</dimen>
+    <dimen name="vivo_text_size_middle">16sp</dimen>
+    <dimen name="vivo_text_size_small">14sp</dimen>
+    <dimen name="vivo_upgrade_common_dialog_message_marginHorizontal">25dp</dimen>
+    <dimen name="vivo_upgrade_manage_item_title_textSize">24px</dimen>
+    <dimen name="vivo_upgrade_manage_item_title_textsize">22px</dimen>
+    <dimen name="vivo_upgrade_mobliedown_dialog_nevernotice_marginLeft">11dp</dimen>
+    <dimen name="vivo_upgrade_mobliedown_dialog_nevernotice_textsize">21px</dimen>
+    <dimen name="vivo_upgrade_selfupdate_dialog_singleBtn_layoutWidth">264dp</dimen>
+    <dimen name="vivo_upgrade_selfupdate_dialog_text_marginBottom">15dp</dimen>
+    <dimen name="vivo_upgrade_selfupdate_dialog_text_marginTop">10dp</dimen>
+    <dimen name="vivo_upgrade_selfupdate_dialog_title_marginTop">18dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_buton_height">29dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_buton_textsize">18px</dimen>
+    <dimen name="vivo_upgrade_update_dialog_buton_width">125dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_download_progress_bar_height">3dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_download_progress_bar_margin_right">4dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_download_progress_text_size">12sp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_marginHorizontal">12dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_message_marginHorizontal">16dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_message_marginVertical">19dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_message_text_lineExtra">0dp</dimen>
+    <dimen name="vivo_upgrade_update_dialog_message_textsize">22px</dimen>
+    <dimen name="vivo_upgrade_update_dialog_title_textsize">24px</dimen>
+    <dimen name="vivowindowTitleButtonTextSize">16dip</dimen>
+    <dimen name="vivowindowTitleHeight">55dip</dimen>
+    <dimen name="vivowindowTitleTextSize">21dip</dimen>
+    <dimen name="vivowindowTitleTextSize_land">26.5dip</dimen>
+    <drawable name="bbk_activity_background_color">#FFFFFF</drawable>
+    <drawable name="blue">#4876FF</drawable>
+    <drawable name="dialog_background_color">#F0F0EF</drawable>
+    <drawable name="green">#0f0</drawable>
+    <drawable name="preference_background_color">#F4F4F4</drawable>
+    <drawable name="translucent_background2">#00000000</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="vivo_activity_background_color">#fff4f4f4</drawable>
+    <drawable name="vivo_sub_divider_line">#bfbfbf</drawable>
+    <drawable name="vivo_test_trans">#00000000</drawable>
+    <string name="account">账户</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity">活动</string>
+    <string name="app_name">幻想西游联盟</string>
+    <string name="back_button">返回</string>
+    <string name="bbk_ableticket_count">%1$d张可用</string>
+    <string name="bbk_action">活动</string>
+    <string name="bbk_action_context">活动内容 </string>
+    <string name="bbk_action_dialog_title">活动公告</string>
+    <string name="bbk_action_diatails">查看详情 </string>
+    <string name="bbk_action_no_tip">本次活动不再提示 </string>
+    <string name="bbk_action_show_detail">查看详情</string>
+    <string name="bbk_action_title">活动</string>
+    <string name="bbk_alipay">支付宝</string>
+    <string name="bbk_alipay_title">V钻支付  |  支付宝</string>
+    <string name="bbk_app_name">支付系统</string>
+    <string name="bbk_app_new_version">"发现新版本"</string>
+    <string name="bbk_back">返回</string>
+    <string name="bbk_balance_invalid">暂不支持余额交易，请稍候再试</string>
+    <string name="bbk_bank_tip">支持储蓄卡、信用卡</string>
+    <string name="bbk_caction_type_action">活动</string>
+    <string name="bbk_caction_type_red_package">红包</string>
+    <string name="bbk_caction_type_reduce">立减</string>
+    <string name="bbk_cancel">取消</string>
+    <string name="bbk_card">"手机充值卡"</string>
+    <string name="bbk_card_amount_empty">请选择面额</string>
+    <string name="bbk_card_amount_empty_s">请选择面值</string>
+    <string name="bbk_card_amount_tip">"面  额："</string>
+    <string name="bbk_card_amount_tip_s">面值</string>
+    <string name="bbk_card_fail_balance">交易成功，此卡余额###元可继续在vivo消费</string>
+    <string name="bbk_card_fail_nobalance">交易成功，如果卡有余额可继续在vivo消费</string>
+    <string name="bbk_card_gt_price">面额超出商品金额的部分不予退补，确定继续？</string>
+    <string name="bbk_card_gt_price_s">面值超出商品金额的部分不予退补，确定继续？</string>
+    <string name="bbk_card_le_price">面额不够本次消费</string>
+    <string name="bbk_card_le_price_s">面值不够本次消费</string>
+    <string name="bbk_card_num_empty">请输入卡号</string>
+    <string name="bbk_card_num_le_len">卡号为%1$s位数字，请重新输入</string>
+    <string name="bbk_card_num_le_len_s">卡号错误，请重新输入</string>
+    <string name="bbk_card_num_tip">"充值卡卡号"</string>
+    <string name="bbk_card_num_tip_s">卡号</string>
+    <string name="bbk_card_pay_continue">继续</string>
+    <string name="bbk_card_pay_submit">提交</string>
+    <string name="bbk_card_pwd_empty">请输入密码</string>
+    <string name="bbk_card_pwd_le_len">卡密为%1$s位数字，请重新输入</string>
+    <string name="bbk_card_pwd_le_len_s">卡密错误，请重新输入</string>
+    <string name="bbk_card_pwd_tip">"充值卡密码"</string>
+    <string name="bbk_card_pwd_tip_s">密码</string>
+    <string name="bbk_card_s">"充值卡、点卡"</string>
+    <string name="bbk_card_service_refuse">系统暂停点卡支付</string>
+    <string name="bbk_card_submit_fail">订单提交失败，请稍后重试！</string>
+    <string name="bbk_card_succ">交易成功</string>
+    <string name="bbk_card_succ_balance">交易成功，此卡余额###元可继续在vivo消费</string>
+    <string name="bbk_card_succ_nobalance">交易成功，如果卡有余额可继续在vivo消费</string>
+    <string name="bbk_card_tip">请核对面额，选择错误可能导致资金损失</string>
+    <string name="bbk_card_tip1">1.支付后，充值卡内余额将自动转入V钻</string>
+    <string name="bbk_card_tip2">2.请务必选择正确的所持充值卡面额，否则将导致支付不成功或者金额丢失</string>
+    <string name="bbk_card_tip4">1.支付后，充值卡内余额将自动转入V钻\n2.请务必选择正确的所持充值卡面额，否则将导致支付不成功或者金额丢失\n3.充值失败时请您稍后重试，不要频繁提交。您可以拨打%1$s，确认卡内金额是否有效</string>
+    <string name="bbk_card_tip_s">请核对面值，选择错误可能导致资金损失</string>
+    <string name="bbk_card_title">"V钻支付  |  手机充值卡"</string>
+    <string name="bbk_click_retry">点击重试</string>
+    <string name="bbk_client_server_dx">10000（电信客服）</string>
+    <string name="bbk_client_server_lt">10010（联通客服）</string>
+    <string name="bbk_client_server_yd">10086（移动客服）</string>
+    <string name="bbk_customer_service">"客服电话：%1$s 服务时间：每天%2$s至%3$s"</string>
+    <string name="bbk_detect_pay_result">订单提交成功，正在支付...</string>
+    <string name="bbk_detect_recjarge_result_time_out">没有查询到支付结果，如果发现已扣款但V钻未到账，请及时联系客服。</string>
+    <string name="bbk_detect_result_time_out">处理超时</string>
+    <string name="bbk_detect_result_time_out_content">没有查询到支付结果，如果发现已扣款但商品未到账，请及时联系游戏客服。</string>
+    <string name="bbk_detect_update_msg">检查新版本中，请稍候...</string>
+    <string msgid="1206648050615176113" name="bbk_download_file_error">"无法完成下载，当前存储空间不足或不可用"</string>
+    <string msgid="6029710962459481088" name="bbk_download_percent">"<ns1:g id="NUMBER">%d</ns1:g><ns1:g id="PERCENT">%%</ns1:g>"</string>
+    <string name="bbk_exit_app">"退出"</string>
+    <string name="bbk_file_len">文件大小：</string>
+    <string name="bbk_game_card">骏卡</string>
+    <string name="bbk_game_card_s">点卡</string>
+    <string name="bbk_game_card_support">目前支持骏网卡</string>
+    <string name="bbk_game_card_tip">1.支付后，充值卡内余额将自动转为V钻</string>
+    <string name="bbk_game_card_tip2">2.骏卡充值为一次性充入，不支持分次</string>
+    <string name="bbk_game_card_title">"V钻支付  |  骏卡"</string>
+    <string name="bbk_has_no_ticket">"您没有可用的礼券"</string>
+    <string name="bbk_initail_paying">正在初始化支付，请稍等...</string>
+    <string name="bbk_install">"安装"</string>
+    <string name="bbk_install_alipay">为保障您的支付安全，请先安装支付插件 </string>
+    <string name="bbk_install_fail">安装支付控件失败</string>
+    <string name="bbk_install_hint">安装提示</string>
+    <string name="bbk_install_message">"检测到本地有支付服务最新的安装包，现在是否安装？"</string>
+    <string name="bbk_install_tips">"安装更新"</string>
+    <string name="bbk_invalid_net_work">您需要连接网络才能进行支付</string>
+    <string name="bbk_invalid_net_work_title">无法连接网络</string>
+    <string name="bbk_limit_pay_amount">交易金额较小，请选择其他支付方式</string>
+    <string name="bbk_loading_text_hint">正在加载...</string>
+    <string name="bbk_msg_latest_version">"暂无更新版本"</string>
+    <string name="bbk_msg_server_error">"服务器暂时无法响应，请稍后重试"</string>
+    <string name="bbk_msg_server_failed">"服务器暂时无法响应或网络连接失败，请稍后重试"</string>
+    <string name="bbk_my_ticket">我的礼券</string>
+    <string name="bbk_net_work_setting">设置网络</string>
+    <string name="bbk_network_abnormal">网络异常，请检查网络连接</string>
+    <string name="bbk_network_error">"网络连接失败"</string>
+    <string name="bbk_new_version_detect">"检查新版本中，请稍候..."</string>
+    <string name="bbk_no_awalable_paytype">没有可用的支付方式</string>
+    <string name="bbk_no_installed_qq">"手机QQ未安装"</string>
+    <string name="bbk_no_supportpay_qq">"手机QQ的版本过低"</string>
+    <string name="bbk_no_ticket_title">目前暂无可用礼券 </string>
+    <string name="bbk_notice_game">关注游戏</string>
+    <string name="bbk_order_desc">商品说明：</string>
+    <string name="bbk_order_price">"金      额："</string>
+    <string name="bbk_order_title">"商      品："</string>
+    <string name="bbk_order_vcoin_balance">"V钻余额："</string>
+    <string name="bbk_order_vcoin_gift">""</string>
+    <string name="bbk_pay_cancel">交易被取消</string>
+    <string name="bbk_pay_continue">继续充值</string>
+    <string name="bbk_pay_fail">支付失败</string>
+    <string name="bbk_pay_fail_content">本次充值%1$sV钻，完成支付还需要充值%2$sV钻</string>
+    <string name="bbk_pay_fail_tip">充值成功 ，未完成支付</string>
+    <string name="bbk_pay_inipay_fail">初始化交易信息失败</string>
+    <string name="bbk_pay_invalid_param">支付参数不全，不能进行支付</string>
+    <string name="bbk_pay_method">支付方式</string>
+    <string name="bbk_pay_next_step">确认支付</string>
+    <string name="bbk_pay_plugin_dialog_text">您需安装vivo服务安全插件v2.0.9版方能使用微信支付，安装后可使用微信支付以及保障您的账户安全</string>
+    <string name="bbk_pay_recharge_title">V钻不足，请先充值</string>
+    <string name="bbk_pay_result_user_balance">当前账户余额：%1$sV钻</string>
+    <string name="bbk_pay_retry">重试</string>
+    <string name="bbk_pay_right_title">充值V钻</string>
+    <string name="bbk_pay_succ">支付成功</string>
+    <string name="bbk_pay_sys_error">支付系统出现异常，支付失败</string>
+    <string name="bbk_pay_tip_cancel">取消</string>
+    <string name="bbk_pay_tip_context">当前礼券面额超出订单金额（超出部分不会产生余额），是否确认使用该礼券支付？</string>
+    <string name="bbk_pay_tip_ok">确认</string>
+    <string name="bbk_pay_vcon_tip">"V钻与人民币兑换比例：1元=1V钻"</string>
+    <string name="bbk_payment_title_left">"V钻支付"</string>
+    <string name="bbk_paymethod_unsel">请选择支付方式</string>
+    <string name="bbk_paytype_title">V钻支付</string>
+    <string name="bbk_paytype_title_s">订单</string>
+    <string name="bbk_phone_card">充值卡</string>
+    <string name="bbk_phone_card_dianxin">电信</string>
+    <string name="bbk_phone_card_liantong">联通</string>
+    <string name="bbk_phone_card_yidong">移动</string>
+    <string name="bbk_price_unit">元</string>
+    <string name="bbk_price_unit_title">"元"</string>
+    <string name="bbk_rechange_pay_succ_content">本次消费%1$sV钻，%2$s元礼券</string>
+    <string name="bbk_rechange_pay_succ_content1">本次充值%1$sV钻，消费%2$sV钻，%3$s元礼券</string>
+    <string name="bbk_rechange_pay_succ_content_no_ticket">本次消费%1$sV钻</string>
+    <string name="bbk_rechange_pay_succ_content_no_ticket1">本次充值%1$sV钻，消费%2$sV钻</string>
+    <string name="bbk_rechange_pay_succ_title">充值并支付成功</string>
+    <string name="bbk_rechange_pay_successful">充值并支付成功</string>
+    <string name="bbk_recharge_alipay_title">"V钻充值  |  支付宝"</string>
+    <string name="bbk_recharge_and_pay">充值并支付（%1$sV钻）</string>
+    <string name="bbk_recharge_card_title">"V钻充值 |  手机充值卡"</string>
+    <string name="bbk_recharge_gcard_title">"V钻充值  |  骏卡"</string>
+    <string name="bbk_recharge_succ_content">本次充值%1$sV钻</string>
+    <string name="bbk_recharge_succ_tip">"充值成功"</string>
+    <string name="bbk_recharge_tencent_title">"V钻充值  |  QQ钱包"</string>
+    <string name="bbk_recharge_title">V钻充值</string>
+    <string name="bbk_recharge_title_left">"V钻充值"</string>
+    <string name="bbk_recharge_type_tip">"请点击以下方式充值V钻："</string>
+    <string name="bbk_recharge_uppay_title">"V钻充值  |  银行卡"</string>
+    <string name="bbk_recharge_weixin_title">"V钻充值  |  微信支付"</string>
+    <string name="bbk_result_detecting">正在处理...</string>
+    <string name="bbk_result_detecting_bt">处理中（%1$s秒）</string>
+    <string name="bbk_result_detecting_tip">请稍候，成功支付后将会在1分钟内到账</string>
+    <string name="bbk_retry_down">"重新下载"</string>
+    <string name="bbk_retry_download">"网络连接失败，请重试"</string>
+    <string name="bbk_select_more_paytype">查看更多支付方式></string>
+    <string name="bbk_select_recharge_title">选择充值方式</string>
+    <string name="bbk_select_ticket">请选择礼券</string>
+    <string name="bbk_self_update">支付服务正在进行升级操作</string>
+    <string name="bbk_self_update_submit">更新</string>
+    <string name="bbk_submit">确定</string>
+    <string name="bbk_tencent">"QQ钱包"</string>
+    <string name="bbk_tencent_title">"V钻支付  |  QQ钱包"</string>
+    <string name="bbk_ticket_amount">礼券：%1$sV钻</string>
+    <string name="bbk_ticket_blance_unit">余额（V钻）</string>
+    <string name="bbk_ticket_limit">受限</string>
+    <string name="bbk_ticket_no_choice">不使用礼券 </string>
+    <string name="bbk_ticket_status_context1">正在使用</string>
+    <string name="bbk_ticket_status_context2">点击使用</string>
+    <string name="bbk_ticket_status_context3">无法使用</string>
+    <string name="bbk_ticket_title">选择礼券</string>
+    <string name="bbk_ticket_will_expire">即将过期</string>
+    <string name="bbk_tips">"提示"</string>
+    <string name="bbk_title_alipay">"支付宝"</string>
+    <string name="bbk_title_card">"手机充值卡"</string>
+    <string name="bbk_title_game_card">"骏卡"</string>
+    <string name="bbk_title_select_paymethod">请选择支付方式</string>
+    <string name="bbk_title_tencent">"QQ钱包"</string>
+    <string name="bbk_title_uppay">"银行卡"</string>
+    <string name="bbk_title_weixin">"微信支付"</string>
+    <string name="bbk_topup_is_failure">充值失败</string>
+    <string name="bbk_topup_is_failure1">请重试</string>
+    <string name="bbk_topup_success_back">返回</string>
+    <string name="bbk_update_later">"忽略"</string>
+    <string name="bbk_update_now">"立即更新"</string>
+    <string name="bbk_update_progress">正在下载更新，请稍候...</string>
+    <string name="bbk_uppay">银行卡</string>
+    <string name="bbk_uppay_title">V钻支付  |  银行卡</string>
+    <string name="bbk_use_ticket">使用礼券</string>
+    <string name="bbk_vcoin_1">10V钻</string>
+    <string name="bbk_vcoin_2">30V钻</string>
+    <string name="bbk_vcoin_3">50V钻</string>
+    <string name="bbk_vcoin_4">100V钻</string>
+    <string name="bbk_vcoin_5">200V钻</string>
+    <string name="bbk_vcoin_6">300V钻</string>
+    <string name="bbk_vcoin_7">500V钻</string>
+    <string name="bbk_vcoin_8">1000V钻</string>
+    <string name="bbk_vcoin_9">2000V钻</string>
+    <string name="bbk_vcoin_amount">金额（元）：</string>
+    <string name="bbk_vcoin_balance">余额：%1$sV钻</string>
+    <string name="bbk_vcoin_card_pay">立即充值</string>
+    <string name="bbk_vcoin_change">请选择充值金额</string>
+    <string name="bbk_vcoin_choice_convert">（￥1元=1V钻）</string>
+    <string name="bbk_vcoin_choice_tips_msgs">注意事项：\n1.修改充值金额后，若修改金额小于订单金额则将全部充值成V钻\n2.修改充值金额后，若修改金额大于订单金额，多余部分将充值成V钻</string>
+    <string name="bbk_vcoin_convert">1元=1V钻</string>
+    <string name="bbk_vcoin_limit">请输入充值金额</string>
+    <string name="bbk_vcoin_not_enough">"V钻不足，请先点击以下方式充值 (充值后将直接支付)"</string>
+    <string name="bbk_vcoin_pay">充值并支付</string>
+    <string name="bbk_vcoin_promotions">您将获得XXV钻，完成支付需要YYV钻</string>
+    <string name="bbk_vcoin_title">"V钻"</string>
+    <string name="bbk_visitor_context">您正使用游客帐号充值，无法参与任何充赠活动。为了您的帐号安全和利益，我们强烈建议您先升级成为vivo帐号。</string>
+    <string name="bbk_visitor_continue">以后再说</string>
+    <string name="bbk_visitor_tip">提示</string>
+    <string name="bbk_visitor_upgrade">立即升级 </string>
+    <string name="bbk_waiting_for_download">"正在连接..."</string>
+    <string name="bbk_weixin">"微信支付"</string>
+    <string name="bbk_weixin_title">"V钻支付  |  微信支付"</string>
+    <string name="bbk_wx_failed">"支付异常，请重试或选择其他充值方式"</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancle">取消</string>
+    <string name="detectCheatingApp">Detected cheating software is running, the game will exit!</string>
+    <string name="email_format_wrong">"请检查您输入的邮箱     "</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="exit_game_outofmemory">Out of memory, please exit the game and restart!</string>
+    <string name="exit_message">Exit Game?</string>
+    <string name="feedback">FeedBack</string>
+    <string name="feedback_format_empty">"请输入内容，然后提交"</string>
+    <string name="feedback_hint">请描述您遇到的问题或者意见、建议</string>
+    <string name="feedback_title">问题反馈</string>
+    <string name="forum">论坛</string>
+    <string name="get_data_network_error">"无法与服务器建立连接，请检查网络与服务器设置"</string>
+    <string name="get_it_on_googleplay">Get it on Google Play</string>
+    <string name="gift">礼包</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hide">隐藏</string>
+    <string name="ignore">忽略</string>
+    <string name="insert_photo">插入图片</string>
+    <string name="mail_tip">邮箱:</string>
+    <string name="net_setting">设置网络</string>
+    <string name="net_setting_tip">您需要连接网络才能够提交信息</string>
+    <string name="net_setting_title">无法连接网络</string>
+    <string name="ok">OK</string>
+    <string name="out">退出用户体验改进计划</string>
+    <string name="permission_deny_cancel">取消</string>
+    <string name="permission_deny_content">已禁止“vivo服务安全插件”使用%s可在“设置”>“更多设置”>“应用程序”中开启权限。</string>
+    <string name="permission_deny_ok">设置</string>
+    <string name="permission_deny_title">权限申请</string>
+    <string name="permission_get_accounts">联系人</string>
+    <string name="permission_read_phone_state">电话</string>
+    <string name="permission_sms">短信</string>
+    <string name="permission_write_external_storage">存储功能</string>
+    <string name="personal_center">个人</string>
+    <string name="phone_format_wrong">"请检查您输入的号码    "</string>
+    <string name="prompt">prompt</string>
+    <string name="qq_format_wrong">"请检查您输入的QQ号码     "</string>
+    <string name="qq_tip">QQ:</string>
+    <string name="question_feedback_format_wrong">"最多只能输入200个字符"</string>
+    <string name="strategy">攻略</string>
+    <string name="submit">提  交</string>
+    <string name="tel_feedback_format_wrong">"最多只能输入100个字符"</string>
+    <string name="tel_info">添加至少一种联系方式</string>
+    <string name="tel_tip">手机号:</string>
+    <string name="toast1">"请先输入内容"</string>
+    <string name="toast2">"信息已提交，vivo感谢您的反馈！"</string>
+    <string name="toast3">"您输入的内容过多，请按提示输入！"</string>
+    <string name="toast4">"不可提交"</string>
+    <string name="toast5">"已达到图片大小上限，无法添加"</string>
+    <string name="toast6">"该图片已经存在"</string>
+    <string name="toast7">"上传失败,请重试"</string>
+    <string name="vivo_account_add_subaccount_upgrade_text">"您当前正在使用游客帐号进行游戏，无法新建游戏ID。为了您的帐号安全和利益，我们强烈建议您升级成为vivo正式帐号。"</string>
+    <string name="vivo_account_agreement_title">"用户协议"</string>
+    <string name="vivo_account_change_account_sub_lable">"游戏ID:"</string>
+    <string name="vivo_account_change_accountlable">"帐户:"</string>
+    <string name="vivo_account_change_edit">"编辑"</string>
+    <string name="vivo_account_change_text">"切换帐号"</string>
+    <string name="vivo_account_change_title">"切换游戏ID"</string>
+    <string name="vivo_account_findpassword">"找回密码"</string>
+    <string name="vivo_account_hint_label">"邮箱/手机号/用户名"</string>
+    <string name="vivo_account_login">"登  录"</string>
+    <string name="vivo_account_login_immediate">"立即登录"</string>
+    <string name="vivo_account_login_tip">"密码已经连续输错5次，帐户已锁定，请3小时后再试"</string>
+    <string name="vivo_account_loginempty_wrong">"帐号或密码不能为空"</string>
+    <string name="vivo_account_num_empty_wrong">"帐号不能为空"</string>
+    <string name="vivo_account_num_formatless_wrong">"帐号不能小于3位"</string>
+    <string name="vivo_account_num_formatmore_wrong">"帐号不能多于50位"</string>
+    <string name="vivo_account_num_label">"帐  号"</string>
+    <string name="vivo_account_num_register_label">"手机号"</string>
+    <string name="vivo_account_password_label">"密  码"</string>
+    <string name="vivo_account_personal_center_account_safety">"帐号安全"</string>
+    <string name="vivo_account_personal_center_gift_amount">"礼券"</string>
+    <string name="vivo_account_personal_center_my_vcoin">"我的V钻"</string>
+    <string name="vivo_account_personal_center_vcoin_amount">"V钻余额"</string>
+    <string name="vivo_account_registe">"注册新用户"</string>
+    <string name="vivo_account_registe_email">"邮箱注册"</string>
+    <string name="vivo_account_registe_finish_lable">"完成注册"</string>
+    <string name="vivo_account_registe_onekey_text">"一键注册"</string>
+    <string name="vivo_account_registe_onekey_text_tip">"将用本机发送短信验证身份"</string>
+    <string name="vivo_account_registe_other_text">"注册新用户"</string>
+    <string name="vivo_account_registe_phone">"手机号注册"</string>
+    <string name="vivo_account_registe_title">"vivo用户注册"</string>
+    <string name="vivo_account_register_email_label_tip">"请输入您的邮箱地址"</string>
+    <string name="vivo_account_register_phone_label_tip">"请输入您的手机号"</string>
+    <string name="vivo_account_upgrade_btn_text">"立即升级"</string>
+    <string name="vivo_account_upgrade_ignore_text">"忽略"</string>
+    <string name="vivo_account_upgrade_text">"为保障帐户安全,建议您注册为正式玩家,精彩继续!"</string>
+    <string name="vivo_account_upgrade_tip">"您当前正在使用游客帐号进行游戏，无法参加vivo平台任何充赠活动，为了您的帐号安全和利益，我们强烈建议您升级为vivo帐号。"</string>
+    <string name="vivo_account_upgrade_title_text">"安全提示"</string>
+    <string name="vivo_add_sub_account_des">"注:小号将以新角色进入游戏"</string>
+    <string name="vivo_add_sub_account_success_toast">"新建游戏ID成功"</string>
+    <string name="vivo_add_sub_btn">"新建小号"</string>
+    <string name="vivo_agree_label">"同意"</string>
+    <string name="vivo_agree_protocol_error">"请阅读并同意《用户协议》"</string>
+    <string name="vivo_alipay_settting">支付宝小额免密设置</string>
+    <string name="vivo_answer_empty_wrong">"答案不能为空"</string>
+    <string name="vivo_answer_format_wrong">"请输入1–24个字符或1–12个汉字"</string>
+    <string name="vivo_answer_indispensable_label">"1–24个字符或1–12个汉字"</string>
+    <string name="vivo_answer_label">"答案"</string>
+    <string name="vivo_answer_wrong">"回答错误，请重新输入"</string>
+    <string name="vivo_app_name">"vivo服务安全插件"</string>
+    <string name="vivo_back">"返回"</string>
+    <string name="vivo_bind_phone_number_label">"绑定手机"</string>
+    <string name="vivo_cancle">"取消"</string>
+    <string name="vivo_change_password_label">"更改密码"</string>
+    <string name="vivo_chat">问题反馈</string>
+    <string name="vivo_commit_contact_tip">"请输入您的联系方式以便我们给您反馈"</string>
+    <string name="vivo_commit_coontact_title">"联系方式"</string>
+    <string name="vivo_commit_identify_exchange_num">"交易号"</string>
+    <string name="vivo_commit_identify_game_info">"游戏信息"</string>
+    <string name="vivo_commit_identify_gamename">"游戏名称"</string>
+    <string name="vivo_commit_identify_imei">"IMEI码"</string>
+    <string name="vivo_commit_identify_imei_tip">"手机拨号界面输入“*#06#“，返回的移动通信国际识别码，或查看手机包装盒。"</string>
+    <string name="vivo_commit_identify_phonenum">"手机信息"</string>
+    <string name="vivo_commit_identify_recharge_amount">"充值金额"</string>
+    <string name="vivo_commit_identify_recharge_time">"充值时间"</string>
+    <string name="vivo_commit_identify_role_classes">"角色职业"</string>
+    <string name="vivo_commit_identify_role_level">"角色等级"</string>
+    <string name="vivo_commit_identify_rolename">"角色名称"</string>
+    <string name="vivo_commit_identify_the_wall">"所在大厅"</string>
+    <string name="vivo_commit_identify_title">"用户身份确认"</string>
+    <string name="vivo_commit_success">"提交成功"</string>
+    <string name="vivo_commit_success_msg">"验证邮件已发送到您的邮箱，请注意查收"</string>
+    <string name="vivo_commit_success_tips">"提交成功"</string>
+    <string name="vivo_commit_user_contact_tip">"申述已提交，我们将会在48小时内给您反馈，请及时查收邮件"</string>
+    <string name="vivo_common_dialog_cancel">取消</string>
+    <string name="vivo_common_dialog_lookup">设置</string>
+    <string name="vivo_common_dialog_title">"提示"</string>
+    <string name="vivo_confirm_password_empty_wrong">"确认密码不能为空 "</string>
+    <string name="vivo_confirm_password_label">"确认密码"</string>
+    <string name="vivo_contact_null">请至少填写一种联系方式</string>
+    <string name="vivo_cue">"提示"</string>
+    <string name="vivo_custom_question">"自定义问题"</string>
+    <string name="vivo_custom_question_empty_wrong">"自定义问题不能为空"</string>
+    <string name="vivo_custom_question_format_wrong">"请输入1–24个字符或1–12个汉字"</string>
+    <string name="vivo_deal_order_num">订单号</string>
+    <string name="vivo_deal_record">交易记录</string>
+    <string name="vivo_deal_record_notice">只提供最近2个月的交易记录</string>
+    <string name="vivo_delete_account_into">"注销后本机涉及帐户的服务将暂不可用"</string>
+    <string name="vivo_email_empty_wrong">"Email不能为空     "</string>
+    <string name="vivo_email_format_wrong">"邮箱格式错误"</string>
+    <string name="vivo_email_formatmore_wrong">"邮箱不能多于50位  "</string>
+    <string name="vivo_email_indispensable_label">"请如实填写，用于找回密码"</string>
+    <string name="vivo_email_label">"邮  箱"</string>
+    <string name="vivo_email_verify">"请输入邮箱验证码"</string>
+    <string name="vivo_enter_email">"进入邮箱"</string>
+    <string name="vivo_ex_answer_format_wrong">"请输入1–50个字符"</string>
+    <string name="vivo_ex_answer_indispensable_label">"1–50个字符"</string>
+    <string name="vivo_ex_custom_question_format_wrong">"请输入1–50个字符"</string>
+    <string name="vivo_ex_name_indispensable_label">"邮箱"</string>
+    <string name="vivo_feedback_larger_bmp">"单张图片最大10M"</string>
+    <string name="vivo_feedback_no_network_tip">"短信发送失败，将为您切换为手动注册"</string>
+    <string name="vivo_feedback_null">请填写问题描述</string>
+    <string name="vivo_feedback_service_tip">"客服电话:4006299688 服务时间:每天8:30至22:00"</string>
+    <string name="vivo_filled_label">"已填写"</string>
+    <string name="vivo_find_password">"找回密码"</string>
+    <string name="vivo_find_password_hint_label">"邮箱/手机号/用户名"</string>
+    <string name="vivo_find_password_intro">"请填写需要找回密码的帐号"</string>
+    <string name="vivo_find_trouble_label">"遇到问题"</string>
+    <string name="vivo_find_verify_code_again">"重新获取"</string>
+    <string name="vivo_finish_label">"完成"</string>
+    <string name="vivo_from_email">"通过邮箱"</string>
+    <string name="vivo_from_phone">"通过手机号"</string>
+    <string name="vivo_from_question">"通过密保问题"</string>
+    <string name="vivo_game_info_item_launch_time">发布日期：</string>
+    <string name="vivo_game_info_item_scan_times">浏览次数：</string>
+    <string name="vivo_get_data_network_error">"无法与服务器建立连接，请检查网络与服务器设置"</string>
+    <string name="vivo_get_verify_code">"获取验证码"</string>
+    <string name="vivo_get_verify_code_again">"重新获取"</string>
+    <string name="vivo_get_verify_code_one_sec">"重新获取（1秒）"</string>
+    <string name="vivo_get_verify_code_wait">"重新获取(*)"</string>
+    <string name="vivo_goods_des">商品名称:</string>
+    <string name="vivo_has_account_login">"已有帐号登录"</string>
+    <string name="vivo_has_send_msg_to_email">"已向邮箱%s发送验证码"</string>
+    <string name="vivo_has_send_msg_to_phone">"已向手机号%s发送验证码"</string>
+    <string name="vivo_imei_formatmore_wrong">"IMEI码不能多于15位  "</string>
+    <string name="vivo_input_answer">"回答密保问题"</string>
+    <string name="vivo_input_password">"输入登录密码"</string>
+    <string name="vivo_input_password_error">"密码错误"</string>
+    <string name="vivo_loading_string">"正在载入"</string>
+    <string name="vivo_loading_text_hint">正在加载</string>
+    <string name="vivo_login_exit_tip">"退出登录将会重新启动游戏，确认退出吗？"</string>
+    <string name="vivo_login_page_title">"vivo帐户登录"</string>
+    <string name="vivo_login_success">"登录成功"</string>
+    <string name="vivo_msg_bind_security_email">"以防日后忘记密码，vivo手机上可设置"</string>
+    <string name="vivo_msg_edit_all_question">"请填写所有密保问题"</string>
+    <string name="vivo_name_indispensable_label">"3–15个字符或2–7个汉字"</string>
+    <string name="vivo_net_error_retry">"网络连接失败，点击重试"</string>
+    <string name="vivo_net_work_not_connect_info">"请检查网络或稍后重试"</string>
+    <string name="vivo_net_work_not_connect_title">"无法连接网络"</string>
+    <string name="vivo_new_password_label">"新密码"</string>
+    <string name="vivo_next_step">"下一步"</string>
+    <string name="vivo_no_network_title">"无法与服务器建立连接，请检查网络与服务器设置"</string>
+    <string name="vivo_not_filled_label">"未填写"</string>
+    <string name="vivo_ok_label">"确定"</string>
+    <string name="vivo_old_account_login">"已有帐号"</string>
+    <string name="vivo_old_password_label">"旧密码"</string>
+    <string name="vivo_onekey_regit_progress_msg">登录中请稍后...</string>
+    <string name="vivo_open_Email">"进入邮箱"</string>
+    <string name="vivo_password_confirm_wrong">"两次输入密码不一致     "</string>
+    <string name="vivo_password_empty_wrong">"密码不能为空     "</string>
+    <string name="vivo_password_format_character_wrong">"请输入字母或数字"</string>
+    <string name="vivo_password_format_wrong">"请输入字母或数字"</string>
+    <string name="vivo_password_formatless_wrong">"密码不能少于6位     "</string>
+    <string name="vivo_password_formatmore_wrong">"密码不能多于16位     "</string>
+    <string name="vivo_password_indispensable_label">"6–16位字母或数字"</string>
+    <string name="vivo_passwordconfirm_empty_wrong">"确认密码不能为空     "</string>
+    <string name="vivo_pay_money">消费金额:</string>
+    <string name="vivo_pay_no_date">暂无交易记录</string>
+    <string name="vivo_pay_quan">消费礼券:</string>
+    <string name="vivo_pay_time">消费时间:</string>
+    <string name="vivo_personal_center_title">"个人中心"</string>
+    <string name="vivo_phone_exist_wrong">"该手机号已被注册"</string>
+    <string name="vivo_phone_num_empty_wrong">"手机号不能为空     "</string>
+    <string name="vivo_phone_num_format_wrong">"手机号格式错误     "</string>
+    <string name="vivo_phone_num_label">"手机号"</string>
+    <string name="vivo_phone_num_verify">"请输入短信验证码"</string>
+    <string name="vivo_phone_num_verify_format">"4位数字"</string>
+    <string name="vivo_phone_num_verify_intro">"短信可能会有延时，请耐心等待，如果长时间未收到短信，请60秒后重新获取"</string>
+    <string name="vivo_phone_num_verify_label">"验证码:"</string>
+    <string name="vivo_phone_num_verify_tip">"请输入您收到的验证码"</string>
+    <string name="vivo_phone_or_email_format_wrong">"请输入手机号或邮箱     "</string>
+    <string name="vivo_question1_label">"问题1"</string>
+    <string name="vivo_question2_label">"问题2"</string>
+    <string name="vivo_question3_label">"问题3"</string>
+    <string name="vivo_question_answer_empty_wrong">"答案不能为空"</string>
+    <string name="vivo_question_indispensable_label">"请选择一个问题"</string>
+    <string name="vivo_question_lable">"问题"</string>
+    <string name="vivo_question_next">"换一个"</string>
+    <string name="vivo_question_next_end">"已是最后一个"</string>
+    <string name="vivo_question_reedit_error">"与已有的问题雷同      "</string>
+    <string name="vivo_question_repeat_error">"与已有的问题雷同      "</string>
+    <string name="vivo_question_repeat_intr">"与已有的问题雷同      "</string>
+    <string name="vivo_question_reselect">"重新选择"</string>
+    <string name="vivo_question_title">"密保问题"</string>
+    <string name="vivo_read_protocol">"同意《用户协议》"</string>
+    <string name="vivo_read_protocol_2">"注册即表示同意《用户协议》"</string>
+    <string name="vivo_recharge_account">充值账号:</string>
+    <string name="vivo_registe_email_tips">"您也可以使用"</string>
+    <string name="vivo_registe_email_title">"邮箱注册"</string>
+    <string name="vivo_registe_phone_title">"手机号注册"</string>
+    <string name="vivo_registe_title">"注册帐户"</string>
+    <string name="vivo_register_email_label">"邮    箱"</string>
+    <string name="vivo_register_password_label">"设置密码:"</string>
+    <string name="vivo_register_phone_failed_tip">"一键注册失败，请输入您要注册的手机号"</string>
+    <string name="vivo_register_phone_setpwd_tip">"6-16位字母或数字"</string>
+    <string name="vivo_security_question_label">"密保问题"</string>
+    <string name="vivo_send_email_success">"验证邮件已发送到您的邮箱（%1$s），请注意查收"</string>
+    <string name="vivo_send_sms_tip">"将发送一条验证短信，资费同一条普通短信，由运营商收取"</string>
+    <string name="vivo_sending_string">"正在发送"</string>
+    <string name="vivo_set_network">"设置网络"</string>
+    <string name="vivo_set_password_label">"设置密码"</string>
+    <string name="vivo_show_password">"显示密码 "</string>
+    <string name="vivo_strategy_title">"攻略"</string>
+    <string name="vivo_sub_account_edit_text">"编辑"</string>
+    <string name="vivo_sub_account_edit_text_cancel">"退出编辑"</string>
+    <string name="vivo_sub_account_entry_text">"进入游戏（*秒）"</string>
+    <string name="vivo_sub_account_entry_text_onesec">"进入游戏（1秒）"</string>
+    <string name="vivo_sub_account_entry_text_totalsec">"进入游戏（3秒）"</string>
+    <string name="vivo_sub_account_exit">"注销"</string>
+    <string name="vivo_sub_account_rename_text">"重命名"</string>
+    <string name="vivo_sub_account_text">"游戏ID:"</string>
+    <string name="vivo_sub_add">"新建小号"</string>
+    <string name="vivo_sub_add_notice">"注:小号将以新角色进入游戏"</string>
+    <string name="vivo_sub_edit">"编辑小号"</string>
+    <string name="vivo_sub_edit_com_title">"编辑小号名称"</string>
+    <string name="vivo_sub_edit_commit">"确定"</string>
+    <string name="vivo_subaccount_empty_wrong">"游戏ID不能为空  "</string>
+    <string name="vivo_subaccount_formatmore_wrong">"游戏ID不能多于15位  "</string>
+    <string name="vivo_submit_label">"提  交"</string>
+    <string name="vivo_sure_label">"确认"</string>
+    <string name="vivo_switch_account">"切换帐号"</string>
+    <string name="vivo_switch_email_register">"切换至邮箱注册"</string>
+    <string name="vivo_switch_phone_register">"切换至手机号注册"</string>
+    <string name="vivo_temp_bind_email_title">游客升级-绑定邮箱</string>
+    <string name="vivo_temp_bind_phone_title">游客升级-绑定手机</string>
+    <string name="vivo_temp_bind_tips">您注册的帐号%s已和您的游客帐号绑定，游客帐户游戏数据已转移至您的新注册帐号上</string>
+    <string name="vivo_temp_login_tips">正在登录：游客帐号</string>
+    <string name="vivo_temp_pay_tips">您正在使用游客帐号充值，无法参与任何充赠活动，为了您的帐号安全和利益，我们强烈建议您先升级成为vivo帐号。</string>
+    <string name="vivo_temp_update_after">下次再说</string>
+    <string name="vivo_temp_update_now">立即升级</string>
+    <string name="vivo_temp_update_tips">您正在使用游客帐号，游客帐号存在丢失风险，升级后游客帐号数据将转移到正式帐号上,是否要注册升级为正式帐号？</string>
+    <string name="vivo_temp_update_tips_left_1">正式帐号</string>
+    <string name="vivo_temp_update_tips_left_2">完善的安全机制</string>
+    <string name="vivo_temp_update_tips_left_3">多种找回方式</string>
+    <string name="vivo_temp_update_tips_left_4">可参与充赠活动</string>
+    <string name="vivo_temp_update_tips_left_5">可新建多个小号</string>
+    <string name="vivo_temp_update_tips_right_1">游客帐号</string>
+    <string name="vivo_temp_update_tips_right_2">易丢失</string>
+    <string name="vivo_temp_update_tips_right_3">无法找回</string>
+    <string name="vivo_temp_update_tips_right_4">无法参加充赠活动</string>
+    <string name="vivo_temp_update_tips_right_5">只有一个默认帐号</string>
+    <string name="vivo_title_bind_security_email">"vivo帐户  请绑定手机号"</string>
+    <string name="vivo_unBind_label">"未绑定"</string>
+    <string name="vivo_upgrade">"立即升级"</string>
+    <string name="vivo_upgrade_app_down_complete">检测到本地有最新的vivo安全服务插件安装包，现在是否安装？</string>
+    <string name="vivo_upgrade_app_new_version">"发现新版本"</string>
+    <string name="vivo_upgrade_cancel">取消</string>
+    <string name="vivo_upgrade_cancel_download">取消下载</string>
+    <string name="vivo_upgrade_cancle">"以后再说"</string>
+    <string name="vivo_upgrade_download_file_error">"无法完成下载，当前存储空间不足或不可用"</string>
+    <string name="vivo_upgrade_download_file_impossible">存储模式不可用</string>
+    <string name="vivo_upgrade_download_nosdcard">当前存储空间不足或不可用</string>
+    <string name="vivo_upgrade_download_percent">%1$s%%</string>
+    <string name="vivo_upgrade_error_appnotavailable">找不到对应程序打开该文件</string>
+    <string name="vivo_upgrade_exit_app">退出</string>
+    <string name="vivo_upgrade_install_app">安装</string>
+    <string name="vivo_upgrade_install_tips">安装新版本</string>
+    <string name="vivo_upgrade_msg_latest_version">暂无更新版本</string>
+    <string name="vivo_upgrade_msg_network_error">网络未连接或不稳定</string>
+    <string name="vivo_upgrade_msg_server_error">服务器暂时无法响应，请稍后重试</string>
+    <string name="vivo_upgrade_next_time">下次再说</string>
+    <string name="vivo_upgrade_no_notice_in_seven">7天内不再提醒</string>
+    <string name="vivo_upgrade_ok">确定</string>
+    <string name="vivo_upgrade_package_update">更新</string>
+    <string name="vivo_upgrade_redownload">重新下载</string>
+    <string name="vivo_upgrade_retry_download">网络连接失败，请重试</string>
+    <string name="vivo_upgrade_system_app_new_version">发现新版本</string>
+    <string name="vivo_upgrade_system_update_later">以后再说</string>
+    <string name="vivo_upgrade_system_update_now">立即更新</string>
+    <string name="vivo_upgrade_update_dialog_version_text">版本号：V</string>
+    <string name="vivo_upgrade_update_is_downloading">检测到新版本，正在为您免流量升级中...</string>
+    <string name="vivo_upgrade_update_later">忽略本次</string>
+    <string name="vivo_upgrade_update_now">立即更新</string>
+    <string name="vivo_upgrade_waiting_for_download">正在连接...</string>
+    <string name="vivo_use_temp_account">"游客体验"</string>
+    <string name="vivo_user_info">实名制信息</string>
+    <string name="vivo_user_info_commit_success">恭喜您成功提交实名制信息</string>
+    <string name="vivo_user_info_id">身份证号码:</string>
+    <string name="vivo_user_info_id_error">请输入您的真实身份证号</string>
+    <string name="vivo_user_info_id_hint">请输入您的二代身份证号码</string>
+    <string name="vivo_user_info_name">真实姓名:</string>
+    <string name="vivo_user_info_name_error">请填写您的真实姓名</string>
+    <string name="vivo_user_info_name_hint">请输入您身份证上的对应姓名</string>
+    <string name="vivo_user_info_notice">尊敬的游戏用户：您好，根据中华人民共和国文化部《互联网文化管理暂行规定》和《网络游戏管理暂行办法》对于移动网络游戏市场的相关规定及要求，游戏用户需要登记入下个人信息：</string>
+    <string name="vivo_user_info_notice2">实名注册资料一旦填写确认，无法随意更改。请您在填写实名制资料时谨慎操作！</string>
+    <string name="vivo_user_info_tips">未填写</string>
+    <string name="vivo_user_info_title">实名制信息登记</string>
+    <string name="vivo_username_empty_wrong">"请输入手机号或邮箱   "</string>
+    <string name="vivo_username_format_wrong">"用户名必须为3–15个字符或2–7个汉字"</string>
+    <string name="vivo_username_pure_num_wrong">"用户名不可为纯数字     "</string>
+    <string name="vivo_verify_num_format_wrong">"验证码为4位数字"</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <style name="ActivityAnimation">
+        <item name="android:activityOpenEnterAnimation">@anim/vivo_fade_in_anim</item>
+        <item name="android:activityCloseExitAnimation">@anim/vivo_fade_out_anim</item>
+    </style>
+    <style name="AnimationStyle" parent="@style/pop_view"> 
+      	<item name="@android:windowAnimationStyle">@style/windowAnimationStyle</item>
+  	</style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@anim/checkbox_selector</item>
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="CustomWindowTitleBackground">
+        <item name="android:background">@drawable/setting_bg</item>
+    </style>
+    <style name="CustomWindowTitleText">  
+          <item name="android:textSize">20dip</item>
+          <item name="android:textColor">#FFffffff</item>
+          <item name="android:paddingLeft">10dp</item>
+    </style>
+    <style name="Default" parent="@style/Default.NoTitleBar" ns2:ignore="ResourceCycle">
+        <item name="android:windowNoTitle">false</item>
+    </style>
+    <style name="Default.NoTitleBar" parent="@android:style/Theme.Light.NoTitleBar">
+		<item name="android:textColorPrimaryInverse">@android:color/black</item>
+        <item name="android:windowBackground">@color/window_bg</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleSize">42.0dip</item>
+        <item name="android:windowTitleStyle">@style/CustomWindowTitleText</item>
+        <item name="android:windowTitleBackgroundStyle">@style/CustomWindowTitleBackground</item>
+        <item name="android:checkboxStyle">@style/CustomCheckBox</item>
+        <!--<item name="android:listViewStyle">@style/CustomListView</item>-->
+    </style>
+    <style name="Transparent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="bbkDialogButtonStyle">
+        <item name="android:shadowColor">#00ffffff</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/bbk_submit_dialog_button</item>
+    </style>
+    <style name="common_dialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/vivo_common_dialog_bg</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="custom_item_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bbk_list_item_bg_selector</item>
+        <item name="android:descendantFocusability">blocksDescendants</item>
+    </style>
+    <style name="customdialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- 背景是否半透明 -->
+        <!--
+             itemname="android:backgroundDimEnabled">false</item>
+        -->
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">  
+  		<item name="android:windowFrame">@null</item>  
+  		<item name="android:windowIsFloating">true</item>  
+  		<item name="android:windowIsTranslucent">true</item>  
+  		<item name="android:windowNoTitle">true</item>  
+  		<item name="android:background">@android:color/transparent</item>  
+  		<item name="android:windowBackground">@android:color/transparent</item>  
+  		<item name="android:backgroundDimEnabled">true</item>  
+  		<item name="android:backgroundDimAmount">0.6</item>  
+ 	</style>
+    <style name="edit_container_base_style">
+	    <item name="android:layout_width">match_parent</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:paddingLeft">20dip</item>
+	    <item name="android:paddingRight">20dip</item>
+	    <item name="android:gravity">center_vertical</item>
+	</style>
+    <style name="edit_container_bottom_round" parent="edit_container_base_style">
+	    <item name="android:background">@drawable/preference_bottom_selector</item>
+	</style>
+    <style name="edit_container_no_round" parent="edit_container_base_style">
+	    <item name="android:background">@drawable/preference_middle</item>
+	</style>
+    <style name="edit_container_top_round" parent="edit_container_base_style">
+	    <item name="android:background">@drawable/preference_top_selector</item>
+	</style>
+    <style name="gounp_title_layout_s">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/bbk_title_text_s</item>
+         <item name="android:textSize">@dimen/bbk_card_type_size_s</item>
+    </style>
+    <style name="order_bar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    <style name="payDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="pop_full_view" parent="android:Theme.Translucent.NoTitleBar">
+	    <item name="android:windowBackground">@color/bbk_dlg_window_bg</item>
+   <!--       <item name="android:windowBackground">@drawable/popup_top_dark</item>	-->
+	</style>
+    <style name="pop_translucent_full_view" parent="android:Theme.Translucent.NoTitleBar">
+	</style>
+    <style name="pop_view" parent="android:Theme.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="android:windowBackground">@null</item>
+	    <item name="android:colorBackgroundCacheHint">@null</item>
+   <!--       <item name="android:windowBackground">@drawable/popup_top_dark</item>	-->
+	</style>
+    <style name="view_pager_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:flipInterval">30</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:persistentDrawingCache">animation</item>
+    </style>
+    <style name="vivo_animation_transparent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/bbk_dlg_window_bg</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/ActivityAnimation</item>
+    </style>
+    <style name="vivo_dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="vivo_edit_container_base_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/vivo_change_pwd_lable_paddingLeft</item>
+    </style>
+    <style name="vivo_edit_container_top_round" parent="vivo_edit_container_base_style">
+        <item name="android:background">@drawable/vivo_edit_top_round</item>
+    </style>
+    <style name="vivo_edit_input_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/vivo_text_size_small</item>
+        <item name="android:textColor">@color/vivo_text_color_small</item>
+    </style>
+    <style name="vivo_edit_label_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+    </style>
+    <style name="vivo_upgrade_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="windowAnimationStyle">
+	    <item name="@android:activityOpenExitAnimation">@anim/bbk_fade_out</item>
+  	</style>
+</resources>

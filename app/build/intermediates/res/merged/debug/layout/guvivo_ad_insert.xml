@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/guvivo_insert_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#88000000">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <Button
+            android:id="@+id/guvivo_insert_click"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#00000000" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/guvivo_insert_inner_click"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="50.0dip"
+        android:background="#fff5f5f5">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_marginTop="30dip"
+            android:padding="5.0dip">
+
+            <ImageView
+                android:id="@+id/guvivo_insert_icon"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_margin="10.0dip"
+                android:src="#ffcccccc" />
+
+            <TextView
+                android:id="@+id/guvivo_insert_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5.0dip"
+                android:text="Title"
+                android:textColor="#ff000000"
+                android:textSize="18.0dip" />
+
+            <TextView
+                android:id="@+id/guvivo_insert_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="desc."
+                android:textColor="#ff333333"
+                android:textSize="12.0dip" />
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:padding="10.0dip">
+
+                <TextView
+                    android:id="@+id/guvivo_insert_click_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:text="点击下载"
+                    android:textColor="#ff0099ff"
+                    android:textSize="12.0dip" />
+            </FrameLayout>
+
+            <ImageView
+                android:id="@+id/guvivo_insert_poster"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#ffff9900"
+                android:scaleType="fitXY" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center|right"
+            android:background="#88000000"
+            android:minHeight="0.0dip"
+            android:minWidth="0.0dip"
+            android:text="广告"
+            android:textColor="#ffffffff"
+            android:textSize="10.0dip" />
+
+        <Button
+            android:id="@+id/guvivo_insert_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right|top"
+            android:background="@drawable/close_24x24"
+            android:minHeight="0.0dip"
+            android:minWidth="0.0dip" />
+    </FrameLayout>
+</FrameLayout>

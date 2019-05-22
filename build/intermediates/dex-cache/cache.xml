@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\runtime\gugame1117.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="beff1aaaf991c712828932740c6bca490f08e43f">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\gugame1117_741f21c058899f2e70a2e996f514db8632d3c740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_34bf03e9aa041e990f8062773ebd1830348e7fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ae00ad381431c995b273a462bec2347d8cc3d58">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\8\volley_3780ea00bf261d951c7267285d819c30fcf0f69b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\smalljs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a7867342c7f3df8f7c08020283882b07081ca93">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\smalljs_57a871fae5d6a8d8abdd827d2b19bc2ee09d2796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\Platform_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fd819b1bda6c9c81f6b5f8ecc2dd66ffbd7e4e58">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\Platform_Android_81b9d2753608172bc2175ac055eb11b39ce4bb6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDK\sdk\.android\build-cache\12e4f6bee1ecfd6e3987b543f3301a3b21212705\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a722e27d6ab780d322dc54a1c93fb8ec7f47f40">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b03879c6f4c5654ae2a3d2998f2b866ee2371e56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\libs\vivounionsdk_v4.2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="55490e1260774cd0031c8364cc655c412af8fb0d">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\8\vivounionsdk_v4.2.4.0_635ecf53aa6904f741b5edac2577f5202ab36e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\android-query-full.0.26.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4055bed8ed6f6aa573fa3e7d979c66101c48e182">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query-full.0.26.7_64abba9574db48e7aca1ea838f983869365bed3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b340dc5349721d45d912121bc6c124ad11ceeaf7">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_7e34b3c524624311efc3b1a719c1ea079986d3b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\QuickDevelop2D_CIL.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2dd09ef45ef1b8e628e0eed2d974cfa6300667a">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\QuickDevelop2D_CIL_c820607e68652ef0961169cc5045d3c1925b1216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\gdx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0555d55ead5b4dad49d5d509e107f03adab02350">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdx_5d924f63c0ed0798859b877fc924b82122fa5e81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\jsoup-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="550348c0a702ae1088c6779c8269bf838f931cb0">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.4.1_2c4a15a885dd6193be5a58fe629d643a82578ab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDK\sdk\.android\build-cache\57f52c080950a72f495b13eb986495dcecf2fa60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_034ae8637c41a35e4b86e8f9b755d7d383497c7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\QuickDevelop2D_AndroidEntry.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b726e5d4bd68efb79e3ead1e712bc39c1d974d06">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\QuickDevelop2D_AndroidEntry_8b7ee31e93725d041de3d1db85eaa272c639a188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\QuickDevelop2D_Engine.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c0f2bded8e8e378540d246f1d277f6e6bc9dc2b">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\QuickDevelop2D_Engine_4c840c0248c958d7ae2ab739ad9cba339ba395fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\lib_vivo_4_2_40\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\8\org.apache.http.legacy_3d97e38545eec5f0d8e87bfef3e686f6b9bcc85d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\gdx-backend-android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43447c694c602d87fadbf8c3e9b4ce00c72bb8b0">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\gdx-backend-android_d708168e1916312019970596a6ceb8eab1b4e094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\libs\vivo_adsdk_v2.6.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9f3c2c400c25758fb81f7554c525619d2aaa37f">
+        <dex dex="E:\project\AndroidStudioProject\XiYou\vivo\20190128\app\build\intermediates\transforms\dex\debug\folders\1000\2\vivo_adsdk_v2.6.4_b3590d9fc25343f0275f97a48b102e2c650e037c\classes.dex" />
+    </item>
+
+</items>

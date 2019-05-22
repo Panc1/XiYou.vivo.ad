@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="bbk_game_card_type">
+        <item>"10元"</item>
+        <item>"15元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"55元"</item>
+        <item>"100元"</item>
+        <item>"200元"</item>
+        <item>"500元"</item>
+        <item>"1000元"</item>
+    </string-array>
+    <array name="bbk_payment_type">
+        <item>@string/bbk_uppay</item>
+        <item>@string/bbk_alipay</item>
+        <item>@string/bbk_tencent</item>
+        <item>@string/bbk_card</item>
+    </array>
+    <array name="bbk_payment_type_icons">
+        <item>@drawable/bbk_uppay</item>
+        <item>@drawable/bbk_alipay</item>
+        <item>@drawable/bbk_tencent</item>
+        <item>@drawable/bbk_card</item>
+    </array>
+    <array name="bbk_payment_type_icons_s">
+        <item>@drawable/bbk_weixin</item>
+        <item>@drawable/bbk_alipay</item>
+        <item>@drawable/bbk_uppay</item>
+        <item>@drawable/bbk_tencent</item>
+        <item>@drawable/bbk_card</item>
+    </array>
+    <array name="bbk_payment_type_s">
+        <item>@string/bbk_weixin</item>
+        <item>@string/bbk_alipay</item>
+        <item>@string/bbk_uppay</item>
+        <item>@string/bbk_tencent</item>
+        <item>@string/bbk_card_s</item>
+    </array>
+    <string-array name="bbk_phone_card_type_dx">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"300元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_dx_s">
+        <item>"50元"</item>
+        <item>"100元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_lt">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"200元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_lt_s">
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_yd">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"200元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <string-array name="bbk_phone_card_type_yd_s">
+        <item>"10元"</item>
+        <item>"20元"</item>
+        <item>"30元"</item>
+        <item>"50元"</item>
+        <item>"100元"</item>
+        <item>"300元"</item>
+        <item>"500元"</item>
+    </string-array>
+    <drawable name="vivo_test_trans">#00000000</drawable>
+    <string name="account">账户</string>
+    <string name="activity">活动</string>
+    <string name="back_button">返回</string>
+    <string name="bbk_ableticket_count">%1$d张可用</string>
+    <string name="bbk_action">活动</string>
+    <string name="bbk_action_context">活动内容 </string>
+    <string name="bbk_action_dialog_title">活动公告</string>
+    <string name="bbk_action_diatails">查看详情 </string>
+    <string name="bbk_action_no_tip">本次活动不再提示 </string>
+    <string name="bbk_action_show_detail">查看详情</string>
+    <string name="bbk_action_title">活动</string>
+    <string name="bbk_alipay">支付宝</string>
+    <string name="bbk_alipay_title">V钻支付  |  支付宝</string>
+    <string name="bbk_app_name">支付系统</string>
+    <string name="bbk_app_new_version">"发现新版本"</string>
+    <string name="bbk_back">返回</string>
+    <string name="bbk_balance_invalid">暂不支持余额交易，请稍候再试</string>
+    <string name="bbk_bank_tip">支持储蓄卡、信用卡</string>
+    <string name="bbk_caction_type_action">活动</string>
+    <string name="bbk_caction_type_red_package">红包</string>
+    <string name="bbk_caction_type_reduce">立减</string>
+    <string name="bbk_cancel">取消</string>
+    <string name="bbk_card">"手机充值卡"</string>
+    <string name="bbk_card_amount_empty">请选择面额</string>
+    <string name="bbk_card_amount_empty_s">请选择面值</string>
+    <string name="bbk_card_amount_tip">"面  额："</string>
+    <string name="bbk_card_amount_tip_s">面值</string>
+    <string name="bbk_card_fail_balance">交易成功，此卡余额###元可继续在vivo消费</string>
+    <string name="bbk_card_fail_nobalance">交易成功，如果卡有余额可继续在vivo消费</string>
+    <string name="bbk_card_gt_price">面额超出商品金额的部分不予退补，确定继续？</string>
+    <string name="bbk_card_gt_price_s">面值超出商品金额的部分不予退补，确定继续？</string>
+    <string name="bbk_card_le_price">面额不够本次消费</string>
+    <string name="bbk_card_le_price_s">面值不够本次消费</string>
+    <string name="bbk_card_num_empty">请输入卡号</string>
+    <string name="bbk_card_num_le_len">卡号为%1$s位数字，请重新输入</string>
+    <string name="bbk_card_num_le_len_s">卡号错误，请重新输入</string>
+    <string name="bbk_card_num_tip">"充值卡卡号"</string>
+    <string name="bbk_card_num_tip_s">卡号</string>
+    <string name="bbk_card_pay_continue">继续</string>
+    <string name="bbk_card_pay_submit">提交</string>
+    <string name="bbk_card_pwd_empty">请输入密码</string>
+    <string name="bbk_card_pwd_le_len">卡密为%1$s位数字，请重新输入</string>
+    <string name="bbk_card_pwd_le_len_s">卡密错误，请重新输入</string>
+    <string name="bbk_card_pwd_tip">"充值卡密码"</string>
+    <string name="bbk_card_pwd_tip_s">密码</string>
+    <string name="bbk_card_s">"充值卡、点卡"</string>
+    <string name="bbk_card_service_refuse">系统暂停点卡支付</string>
+    <string name="bbk_card_submit_fail">订单提交失败，请稍后重试！</string>
+    <string name="bbk_card_succ">交易成功</string>
+    <string name="bbk_card_succ_balance">交易成功，此卡余额###元可继续在vivo消费</string>
+    <string name="bbk_card_succ_nobalance">交易成功，如果卡有余额可继续在vivo消费</string>
+    <string name="bbk_card_tip">请核对面额，选择错误可能导致资金损失</string>
+    <string name="bbk_card_tip1">1.支付后，充值卡内余额将自动转入V钻</string>
+    <string name="bbk_card_tip2">2.请务必选择正确的所持充值卡面额，否则将导致支付不成功或者金额丢失</string>
+    <string name="bbk_card_tip4">1.支付后，充值卡内余额将自动转入V钻\n2.请务必选择正确的所持充值卡面额，否则将导致支付不成功或者金额丢失\n3.充值失败时请您稍后重试，不要频繁提交。您可以拨打%1$s，确认卡内金额是否有效</string>
+    <string name="bbk_card_tip_s">请核对面值，选择错误可能导致资金损失</string>
+    <string name="bbk_card_title">"V钻支付  |  手机充值卡"</string>
+    <string name="bbk_click_retry">点击重试</string>
+    <string name="bbk_client_server_dx">10000（电信客服）</string>
+    <string name="bbk_client_server_lt">10010（联通客服）</string>
+    <string name="bbk_client_server_yd">10086（移动客服）</string>
+    <string name="bbk_customer_service">"客服电话：%1$s 服务时间：每天%2$s至%3$s"</string>
+    <string name="bbk_detect_pay_result">订单提交成功，正在支付...</string>
+    <string name="bbk_detect_recjarge_result_time_out">没有查询到支付结果，如果发现已扣款但V钻未到账，请及时联系客服。</string>
+    <string name="bbk_detect_result_time_out">处理超时</string>
+    <string name="bbk_detect_result_time_out_content">没有查询到支付结果，如果发现已扣款但商品未到账，请及时联系游戏客服。</string>
+    <string name="bbk_detect_update_msg">检查新版本中，请稍候...</string>
+    <string msgid="1206648050615176113" name="bbk_download_file_error">"无法完成下载，当前存储空间不足或不可用"</string>
+    <string msgid="6029710962459481088" name="bbk_download_percent">"<ns1:g id="NUMBER">%d</ns1:g><ns1:g id="PERCENT">%%</ns1:g>"</string>
+    <string name="bbk_exit_app">"退出"</string>
+    <string name="bbk_file_len">文件大小：</string>
+    <string name="bbk_game_card">骏卡</string>
+    <string name="bbk_game_card_s">点卡</string>
+    <string name="bbk_game_card_support">目前支持骏网卡</string>
+    <string name="bbk_game_card_tip">1.支付后，充值卡内余额将自动转为V钻</string>
+    <string name="bbk_game_card_tip2">2.骏卡充值为一次性充入，不支持分次</string>
+    <string name="bbk_game_card_title">"V钻支付  |  骏卡"</string>
+    <string name="bbk_has_no_ticket">"您没有可用的礼券"</string>
+    <string name="bbk_initail_paying">正在初始化支付，请稍等...</string>
+    <string name="bbk_install">"安装"</string>
+    <string name="bbk_install_alipay">为保障您的支付安全，请先安装支付插件 </string>
+    <string name="bbk_install_fail">安装支付控件失败</string>
+    <string name="bbk_install_hint">安装提示</string>
+    <string name="bbk_install_message">"检测到本地有支付服务最新的安装包，现在是否安装？"</string>
+    <string name="bbk_install_tips">"安装更新"</string>
+    <string name="bbk_invalid_net_work">您需要连接网络才能进行支付</string>
+    <string name="bbk_invalid_net_work_title">无法连接网络</string>
+    <string name="bbk_limit_pay_amount">交易金额较小，请选择其他支付方式</string>
+    <string name="bbk_loading_text_hint">正在加载...</string>
+    <string name="bbk_msg_latest_version">"暂无更新版本"</string>
+    <string name="bbk_msg_server_error">"服务器暂时无法响应，请稍后重试"</string>
+    <string name="bbk_msg_server_failed">"服务器暂时无法响应或网络连接失败，请稍后重试"</string>
+    <string name="bbk_my_ticket">我的礼券</string>
+    <string name="bbk_net_work_setting">设置网络</string>
+    <string name="bbk_network_abnormal">网络异常，请检查网络连接</string>
+    <string name="bbk_network_error">"网络连接失败"</string>
+    <string name="bbk_new_version_detect">"检查新版本中，请稍候..."</string>
+    <string name="bbk_no_awalable_paytype">没有可用的支付方式</string>
+    <string name="bbk_no_installed_qq">"手机QQ未安装"</string>
+    <string name="bbk_no_supportpay_qq">"手机QQ的版本过低"</string>
+    <string name="bbk_no_ticket_title">目前暂无可用礼券 </string>
+    <string name="bbk_notice_game">关注游戏</string>
+    <string name="bbk_order_desc">商品说明：</string>
+    <string name="bbk_order_price">"金      额："</string>
+    <string name="bbk_order_title">"商      品："</string>
+    <string name="bbk_order_vcoin_balance">"V钻余额："</string>
+    <string name="bbk_order_vcoin_gift">""</string>
+    <string name="bbk_pay_cancel">交易被取消</string>
+    <string name="bbk_pay_continue">继续充值</string>
+    <string name="bbk_pay_fail">支付失败</string>
+    <string name="bbk_pay_fail_content">本次充值%1$sV钻，完成支付还需要充值%2$sV钻</string>
+    <string name="bbk_pay_fail_tip">充值成功 ，未完成支付</string>
+    <string name="bbk_pay_inipay_fail">初始化交易信息失败</string>
+    <string name="bbk_pay_invalid_param">支付参数不全，不能进行支付</string>
+    <string name="bbk_pay_method">支付方式</string>
+    <string name="bbk_pay_next_step">确认支付</string>
+    <string name="bbk_pay_plugin_dialog_text">您需安装vivo服务安全插件v2.0.9版方能使用微信支付，安装后可使用微信支付以及保障您的账户安全</string>
+    <string name="bbk_pay_recharge_title">V钻不足，请先充值</string>
+    <string name="bbk_pay_result_user_balance">当前账户余额：%1$sV钻</string>
+    <string name="bbk_pay_retry">重试</string>
+    <string name="bbk_pay_right_title">充值V钻</string>
+    <string name="bbk_pay_succ">支付成功</string>
+    <string name="bbk_pay_sys_error">支付系统出现异常，支付失败</string>
+    <string name="bbk_pay_tip_cancel">取消</string>
+    <string name="bbk_pay_tip_context">当前礼券面额超出订单金额（超出部分不会产生余额），是否确认使用该礼券支付？</string>
+    <string name="bbk_pay_tip_ok">确认</string>
+    <string name="bbk_pay_vcon_tip">"V钻与人民币兑换比例：1元=1V钻"</string>
+    <string name="bbk_payment_title_left">"V钻支付"</string>
+    <string name="bbk_paymethod_unsel">请选择支付方式</string>
+    <string name="bbk_paytype_title">V钻支付</string>
+    <string name="bbk_paytype_title_s">订单</string>
+    <string name="bbk_phone_card">充值卡</string>
+    <string name="bbk_phone_card_dianxin">电信</string>
+    <string name="bbk_phone_card_liantong">联通</string>
+    <string name="bbk_phone_card_yidong">移动</string>
+    <string name="bbk_price_unit">元</string>
+    <string name="bbk_price_unit_title">"元"</string>
+    <string name="bbk_rechange_pay_succ_content">本次消费%1$sV钻，%2$s元礼券</string>
+    <string name="bbk_rechange_pay_succ_content1">本次充值%1$sV钻，消费%2$sV钻，%3$s元礼券</string>
+    <string name="bbk_rechange_pay_succ_content_no_ticket">本次消费%1$sV钻</string>
+    <string name="bbk_rechange_pay_succ_content_no_ticket1">本次充值%1$sV钻，消费%2$sV钻</string>
+    <string name="bbk_rechange_pay_succ_title">充值并支付成功</string>
+    <string name="bbk_rechange_pay_successful">充值并支付成功</string>
+    <string name="bbk_recharge_alipay_title">"V钻充值  |  支付宝"</string>
+    <string name="bbk_recharge_and_pay">充值并支付（%1$sV钻）</string>
+    <string name="bbk_recharge_card_title">"V钻充值 |  手机充值卡"</string>
+    <string name="bbk_recharge_gcard_title">"V钻充值  |  骏卡"</string>
+    <string name="bbk_recharge_succ_content">本次充值%1$sV钻</string>
+    <string name="bbk_recharge_succ_tip">"充值成功"</string>
+    <string name="bbk_recharge_tencent_title">"V钻充值  |  QQ钱包"</string>
+    <string name="bbk_recharge_title">V钻充值</string>
+    <string name="bbk_recharge_title_left">"V钻充值"</string>
+    <string name="bbk_recharge_type_tip">"请点击以下方式充值V钻："</string>
+    <string name="bbk_recharge_uppay_title">"V钻充值  |  银行卡"</string>
+    <string name="bbk_recharge_weixin_title">"V钻充值  |  微信支付"</string>
+    <string name="bbk_result_detecting">正在处理...</string>
+    <string name="bbk_result_detecting_bt">处理中（%1$s秒）</string>
+    <string name="bbk_result_detecting_tip">请稍候，成功支付后将会在1分钟内到账</string>
+    <string name="bbk_retry_down">"重新下载"</string>
+    <string name="bbk_retry_download">"网络连接失败，请重试"</string>
+    <string name="bbk_select_more_paytype">查看更多支付方式></string>
+    <string name="bbk_select_recharge_title">选择充值方式</string>
+    <string name="bbk_select_ticket">请选择礼券</string>
+    <string name="bbk_self_update">支付服务正在进行升级操作</string>
+    <string name="bbk_self_update_submit">更新</string>
+    <string name="bbk_submit">确定</string>
+    <string name="bbk_tencent">"QQ钱包"</string>
+    <string name="bbk_tencent_title">"V钻支付  |  QQ钱包"</string>
+    <string name="bbk_ticket_amount">礼券：%1$sV钻</string>
+    <string name="bbk_ticket_blance_unit">余额（V钻）</string>
+    <string name="bbk_ticket_limit">受限</string>
+    <string name="bbk_ticket_no_choice">不使用礼券 </string>
+    <string name="bbk_ticket_status_context1">正在使用</string>
+    <string name="bbk_ticket_status_context2">点击使用</string>
+    <string name="bbk_ticket_status_context3">无法使用</string>
+    <string name="bbk_ticket_title">选择礼券</string>
+    <string name="bbk_ticket_will_expire">即将过期</string>
+    <string name="bbk_tips">"提示"</string>
+    <string name="bbk_title_alipay">"支付宝"</string>
+    <string name="bbk_title_card">"手机充值卡"</string>
+    <string name="bbk_title_game_card">"骏卡"</string>
+    <string name="bbk_title_select_paymethod">请选择支付方式</string>
+    <string name="bbk_title_tencent">"QQ钱包"</string>
+    <string name="bbk_title_uppay">"银行卡"</string>
+    <string name="bbk_title_weixin">"微信支付"</string>
+    <string name="bbk_topup_is_failure">充值失败</string>
+    <string name="bbk_topup_is_failure1">请重试</string>
+    <string name="bbk_topup_success_back">返回</string>
+    <string name="bbk_update_later">"忽略"</string>
+    <string name="bbk_update_now">"立即更新"</string>
+    <string name="bbk_update_progress">正在下载更新，请稍候...</string>
+    <string name="bbk_uppay">银行卡</string>
+    <string name="bbk_uppay_title">V钻支付  |  银行卡</string>
+    <string name="bbk_use_ticket">使用礼券</string>
+    <string name="bbk_vcoin_1">10V钻</string>
+    <string name="bbk_vcoin_2">30V钻</string>
+    <string name="bbk_vcoin_3">50V钻</string>
+    <string name="bbk_vcoin_4">100V钻</string>
+    <string name="bbk_vcoin_5">200V钻</string>
+    <string name="bbk_vcoin_6">300V钻</string>
+    <string name="bbk_vcoin_7">500V钻</string>
+    <string name="bbk_vcoin_8">1000V钻</string>
+    <string name="bbk_vcoin_9">2000V钻</string>
+    <string name="bbk_vcoin_amount">金额（元）：</string>
+    <string name="bbk_vcoin_balance">余额：%1$sV钻</string>
+    <string name="bbk_vcoin_card_pay">立即充值</string>
+    <string name="bbk_vcoin_change">请选择充值金额</string>
+    <string name="bbk_vcoin_choice_convert">（￥1元=1V钻）</string>
+    <string name="bbk_vcoin_choice_tips_msgs">注意事项：\n1.修改充值金额后，若修改金额小于订单金额则将全部充值成V钻\n2.修改充值金额后，若修改金额大于订单金额，多余部分将充值成V钻</string>
+    <string name="bbk_vcoin_convert">1元=1V钻</string>
+    <string name="bbk_vcoin_limit">请输入充值金额</string>
+    <string name="bbk_vcoin_not_enough">"V钻不足，请先点击以下方式充值 (充值后将直接支付)"</string>
+    <string name="bbk_vcoin_pay">充值并支付</string>
+    <string name="bbk_vcoin_promotions">您将获得XXV钻，完成支付需要YYV钻</string>
+    <string name="bbk_vcoin_title">"V钻"</string>
+    <string name="bbk_visitor_context">您正使用游客帐号充值，无法参与任何充赠活动。为了您的帐号安全和利益，我们强烈建议您先升级成为vivo帐号。</string>
+    <string name="bbk_visitor_continue">以后再说</string>
+    <string name="bbk_visitor_tip">提示</string>
+    <string name="bbk_visitor_upgrade">立即升级 </string>
+    <string name="bbk_waiting_for_download">"正在连接..."</string>
+    <string name="bbk_weixin">"微信支付"</string>
+    <string name="bbk_weixin_title">"V钻支付  |  微信支付"</string>
+    <string name="bbk_wx_failed">"支付异常，请重试或选择其他充值方式"</string>
+    <string name="cancle">取消</string>
+    <string name="email_format_wrong">"请检查您输入的邮箱     "</string>
+    <string name="feedback">FeedBack</string>
+    <string name="feedback_format_empty">"请输入内容，然后提交"</string>
+    <string name="feedback_hint">请描述您遇到的问题或者意见、建议</string>
+    <string name="feedback_title">问题反馈</string>
+    <string name="forum">论坛</string>
+    <string name="get_data_network_error">"无法与服务器建立连接，请检查网络与服务器设置"</string>
+    <string name="gift">礼包</string>
+    <string name="hide">隐藏</string>
+    <string name="ignore">忽略</string>
+    <string name="insert_photo">插入图片</string>
+    <string name="mail_tip">邮箱:</string>
+    <string name="net_setting">设置网络</string>
+    <string name="net_setting_tip">您需要连接网络才能够提交信息</string>
+    <string name="net_setting_title">无法连接网络</string>
+    <string name="out">退出用户体验改进计划</string>
+    <string name="permission_deny_cancel">取消</string>
+    <string name="permission_deny_content">已禁止“vivo服务安全插件”使用%s可在“设置”>“更多设置”>“应用程序”中开启权限。</string>
+    <string name="permission_deny_ok">设置</string>
+    <string name="permission_deny_title">权限申请</string>
+    <string name="permission_get_accounts">联系人</string>
+    <string name="permission_read_phone_state">电话</string>
+    <string name="permission_sms">短信</string>
+    <string name="permission_write_external_storage">存储功能</string>
+    <string name="personal_center">个人</string>
+    <string name="phone_format_wrong">"请检查您输入的号码    "</string>
+    <string name="qq_format_wrong">"请检查您输入的QQ号码     "</string>
+    <string name="qq_tip">QQ:</string>
+    <string name="question_feedback_format_wrong">"最多只能输入200个字符"</string>
+    <string name="strategy">攻略</string>
+    <string name="submit">提  交</string>
+    <string name="tel_feedback_format_wrong">"最多只能输入100个字符"</string>
+    <string name="tel_info">添加至少一种联系方式</string>
+    <string name="tel_tip">手机号:</string>
+    <string name="toast1">"请先输入内容"</string>
+    <string name="toast2">"信息已提交，vivo感谢您的反馈！"</string>
+    <string name="toast3">"您输入的内容过多，请按提示输入！"</string>
+    <string name="toast4">"不可提交"</string>
+    <string name="toast5">"已达到图片大小上限，无法添加"</string>
+    <string name="toast6">"该图片已经存在"</string>
+    <string name="toast7">"上传失败,请重试"</string>
+    <string name="vivo_account_add_subaccount_upgrade_text">"您当前正在使用游客帐号进行游戏，无法新建游戏ID。为了您的帐号安全和利益，我们强烈建议您升级成为vivo正式帐号。"</string>
+    <string name="vivo_account_agreement_title">"用户协议"</string>
+    <string name="vivo_account_change_account_sub_lable">"游戏ID:"</string>
+    <string name="vivo_account_change_accountlable">"帐户:"</string>
+    <string name="vivo_account_change_edit">"编辑"</string>
+    <string name="vivo_account_change_text">"切换帐号"</string>
+    <string name="vivo_account_change_title">"切换游戏ID"</string>
+    <string name="vivo_account_findpassword">"找回密码"</string>
+    <string name="vivo_account_hint_label">"邮箱/手机号/用户名"</string>
+    <string name="vivo_account_login">"登  录"</string>
+    <string name="vivo_account_login_immediate">"立即登录"</string>
+    <string name="vivo_account_login_tip">"密码已经连续输错5次，帐户已锁定，请3小时后再试"</string>
+    <string name="vivo_account_loginempty_wrong">"帐号或密码不能为空"</string>
+    <string name="vivo_account_num_empty_wrong">"帐号不能为空"</string>
+    <string name="vivo_account_num_formatless_wrong">"帐号不能小于3位"</string>
+    <string name="vivo_account_num_formatmore_wrong">"帐号不能多于50位"</string>
+    <string name="vivo_account_num_label">"帐  号"</string>
+    <string name="vivo_account_num_register_label">"手机号"</string>
+    <string name="vivo_account_password_label">"密  码"</string>
+    <string name="vivo_account_personal_center_account_safety">"帐号安全"</string>
+    <string name="vivo_account_personal_center_gift_amount">"礼券"</string>
+    <string name="vivo_account_personal_center_my_vcoin">"我的V钻"</string>
+    <string name="vivo_account_personal_center_vcoin_amount">"V钻余额"</string>
+    <string name="vivo_account_registe">"注册新用户"</string>
+    <string name="vivo_account_registe_email">"邮箱注册"</string>
+    <string name="vivo_account_registe_finish_lable">"完成注册"</string>
+    <string name="vivo_account_registe_onekey_text">"一键注册"</string>
+    <string name="vivo_account_registe_onekey_text_tip">"将用本机发送短信验证身份"</string>
+    <string name="vivo_account_registe_other_text">"注册新用户"</string>
+    <string name="vivo_account_registe_phone">"手机号注册"</string>
+    <string name="vivo_account_registe_title">"vivo用户注册"</string>
+    <string name="vivo_account_register_email_label_tip">"请输入您的邮箱地址"</string>
+    <string name="vivo_account_register_phone_label_tip">"请输入您的手机号"</string>
+    <string name="vivo_account_upgrade_btn_text">"立即升级"</string>
+    <string name="vivo_account_upgrade_ignore_text">"忽略"</string>
+    <string name="vivo_account_upgrade_text">"为保障帐户安全,建议您注册为正式玩家,精彩继续!"</string>
+    <string name="vivo_account_upgrade_tip">"您当前正在使用游客帐号进行游戏，无法参加vivo平台任何充赠活动，为了您的帐号安全和利益，我们强烈建议您升级为vivo帐号。"</string>
+    <string name="vivo_account_upgrade_title_text">"安全提示"</string>
+    <string name="vivo_add_sub_account_des">"注:小号将以新角色进入游戏"</string>
+    <string name="vivo_add_sub_account_success_toast">"新建游戏ID成功"</string>
+    <string name="vivo_add_sub_btn">"新建小号"</string>
+    <string name="vivo_agree_label">"同意"</string>
+    <string name="vivo_agree_protocol_error">"请阅读并同意《用户协议》"</string>
+    <string name="vivo_alipay_settting">支付宝小额免密设置</string>
+    <string name="vivo_answer_empty_wrong">"答案不能为空"</string>
+    <string name="vivo_answer_format_wrong">"请输入1–24个字符或1–12个汉字"</string>
+    <string name="vivo_answer_indispensable_label">"1–24个字符或1–12个汉字"</string>
+    <string name="vivo_answer_label">"答案"</string>
+    <string name="vivo_answer_wrong">"回答错误，请重新输入"</string>
+    <string name="vivo_app_name">"vivo服务安全插件"</string>
+    <string name="vivo_back">"返回"</string>
+    <string name="vivo_bind_phone_number_label">"绑定手机"</string>
+    <string name="vivo_cancle">"取消"</string>
+    <string name="vivo_change_password_label">"更改密码"</string>
+    <string name="vivo_chat">问题反馈</string>
+    <string name="vivo_commit_contact_tip">"请输入您的联系方式以便我们给您反馈"</string>
+    <string name="vivo_commit_coontact_title">"联系方式"</string>
+    <string name="vivo_commit_identify_exchange_num">"交易号"</string>
+    <string name="vivo_commit_identify_game_info">"游戏信息"</string>
+    <string name="vivo_commit_identify_gamename">"游戏名称"</string>
+    <string name="vivo_commit_identify_imei">"IMEI码"</string>
+    <string name="vivo_commit_identify_imei_tip">"手机拨号界面输入“*#06#“，返回的移动通信国际识别码，或查看手机包装盒。"</string>
+    <string name="vivo_commit_identify_phonenum">"手机信息"</string>
+    <string name="vivo_commit_identify_recharge_amount">"充值金额"</string>
+    <string name="vivo_commit_identify_recharge_time">"充值时间"</string>
+    <string name="vivo_commit_identify_role_classes">"角色职业"</string>
+    <string name="vivo_commit_identify_role_level">"角色等级"</string>
+    <string name="vivo_commit_identify_rolename">"角色名称"</string>
+    <string name="vivo_commit_identify_the_wall">"所在大厅"</string>
+    <string name="vivo_commit_identify_title">"用户身份确认"</string>
+    <string name="vivo_commit_success">"提交成功"</string>
+    <string name="vivo_commit_success_msg">"验证邮件已发送到您的邮箱，请注意查收"</string>
+    <string name="vivo_commit_success_tips">"提交成功"</string>
+    <string name="vivo_commit_user_contact_tip">"申述已提交，我们将会在48小时内给您反馈，请及时查收邮件"</string>
+    <string name="vivo_common_dialog_cancel">取消</string>
+    <string name="vivo_common_dialog_lookup">设置</string>
+    <string name="vivo_common_dialog_title">"提示"</string>
+    <string name="vivo_confirm_password_empty_wrong">"确认密码不能为空 "</string>
+    <string name="vivo_confirm_password_label">"确认密码"</string>
+    <string name="vivo_contact_null">请至少填写一种联系方式</string>
+    <string name="vivo_cue">"提示"</string>
+    <string name="vivo_custom_question">"自定义问题"</string>
+    <string name="vivo_custom_question_empty_wrong">"自定义问题不能为空"</string>
+    <string name="vivo_custom_question_format_wrong">"请输入1–24个字符或1–12个汉字"</string>
+    <string name="vivo_deal_order_num">订单号</string>
+    <string name="vivo_deal_record">交易记录</string>
+    <string name="vivo_deal_record_notice">只提供最近2个月的交易记录</string>
+    <string name="vivo_delete_account_into">"注销后本机涉及帐户的服务将暂不可用"</string>
+    <string name="vivo_email_empty_wrong">"Email不能为空     "</string>
+    <string name="vivo_email_format_wrong">"邮箱格式错误"</string>
+    <string name="vivo_email_formatmore_wrong">"邮箱不能多于50位  "</string>
+    <string name="vivo_email_indispensable_label">"请如实填写，用于找回密码"</string>
+    <string name="vivo_email_label">"邮  箱"</string>
+    <string name="vivo_email_verify">"请输入邮箱验证码"</string>
+    <string name="vivo_enter_email">"进入邮箱"</string>
+    <string name="vivo_ex_answer_format_wrong">"请输入1–50个字符"</string>
+    <string name="vivo_ex_answer_indispensable_label">"1–50个字符"</string>
+    <string name="vivo_ex_custom_question_format_wrong">"请输入1–50个字符"</string>
+    <string name="vivo_ex_name_indispensable_label">"邮箱"</string>
+    <string name="vivo_feedback_larger_bmp">"单张图片最大10M"</string>
+    <string name="vivo_feedback_no_network_tip">"短信发送失败，将为您切换为手动注册"</string>
+    <string name="vivo_feedback_null">请填写问题描述</string>
+    <string name="vivo_feedback_service_tip">"客服电话:4006299688 服务时间:每天8:30至22:00"</string>
+    <string name="vivo_filled_label">"已填写"</string>
+    <string name="vivo_find_password">"找回密码"</string>
+    <string name="vivo_find_password_hint_label">"邮箱/手机号/用户名"</string>
+    <string name="vivo_find_password_intro">"请填写需要找回密码的帐号"</string>
+    <string name="vivo_find_trouble_label">"遇到问题"</string>
+    <string name="vivo_find_verify_code_again">"重新获取"</string>
+    <string name="vivo_finish_label">"完成"</string>
+    <string name="vivo_from_email">"通过邮箱"</string>
+    <string name="vivo_from_phone">"通过手机号"</string>
+    <string name="vivo_from_question">"通过密保问题"</string>
+    <string name="vivo_game_info_item_launch_time">发布日期：</string>
+    <string name="vivo_game_info_item_scan_times">浏览次数：</string>
+    <string name="vivo_get_data_network_error">"无法与服务器建立连接，请检查网络与服务器设置"</string>
+    <string name="vivo_get_verify_code">"获取验证码"</string>
+    <string name="vivo_get_verify_code_again">"重新获取"</string>
+    <string name="vivo_get_verify_code_one_sec">"重新获取（1秒）"</string>
+    <string name="vivo_get_verify_code_wait">"重新获取(*)"</string>
+    <string name="vivo_goods_des">商品名称:</string>
+    <string name="vivo_has_account_login">"已有帐号登录"</string>
+    <string name="vivo_has_send_msg_to_email">"已向邮箱%s发送验证码"</string>
+    <string name="vivo_has_send_msg_to_phone">"已向手机号%s发送验证码"</string>
+    <string name="vivo_imei_formatmore_wrong">"IMEI码不能多于15位  "</string>
+    <string name="vivo_input_answer">"回答密保问题"</string>
+    <string name="vivo_input_password">"输入登录密码"</string>
+    <string name="vivo_input_password_error">"密码错误"</string>
+    <string name="vivo_loading_string">"正在载入"</string>
+    <string name="vivo_loading_text_hint">正在加载</string>
+    <string name="vivo_login_exit_tip">"退出登录将会重新启动游戏，确认退出吗？"</string>
+    <string name="vivo_login_page_title">"vivo帐户登录"</string>
+    <string name="vivo_login_success">"登录成功"</string>
+    <string name="vivo_msg_bind_security_email">"以防日后忘记密码，vivo手机上可设置"</string>
+    <string name="vivo_msg_edit_all_question">"请填写所有密保问题"</string>
+    <string name="vivo_name_indispensable_label">"3–15个字符或2–7个汉字"</string>
+    <string name="vivo_net_error_retry">"网络连接失败，点击重试"</string>
+    <string name="vivo_net_work_not_connect_info">"请检查网络或稍后重试"</string>
+    <string name="vivo_net_work_not_connect_title">"无法连接网络"</string>
+    <string name="vivo_new_password_label">"新密码"</string>
+    <string name="vivo_next_step">"下一步"</string>
+    <string name="vivo_no_network_title">"无法与服务器建立连接，请检查网络与服务器设置"</string>
+    <string name="vivo_not_filled_label">"未填写"</string>
+    <string name="vivo_ok_label">"确定"</string>
+    <string name="vivo_old_account_login">"已有帐号"</string>
+    <string name="vivo_old_password_label">"旧密码"</string>
+    <string name="vivo_onekey_regit_progress_msg">登录中请稍后...</string>
+    <string name="vivo_open_Email">"进入邮箱"</string>
+    <string name="vivo_password_confirm_wrong">"两次输入密码不一致     "</string>
+    <string name="vivo_password_empty_wrong">"密码不能为空     "</string>
+    <string name="vivo_password_format_character_wrong">"请输入字母或数字"</string>
+    <string name="vivo_password_format_wrong">"请输入字母或数字"</string>
+    <string name="vivo_password_formatless_wrong">"密码不能少于6位     "</string>
+    <string name="vivo_password_formatmore_wrong">"密码不能多于16位     "</string>
+    <string name="vivo_password_indispensable_label">"6–16位字母或数字"</string>
+    <string name="vivo_passwordconfirm_empty_wrong">"确认密码不能为空     "</string>
+    <string name="vivo_pay_money">消费金额:</string>
+    <string name="vivo_pay_no_date">暂无交易记录</string>
+    <string name="vivo_pay_quan">消费礼券:</string>
+    <string name="vivo_pay_time">消费时间:</string>
+    <string name="vivo_personal_center_title">"个人中心"</string>
+    <string name="vivo_phone_exist_wrong">"该手机号已被注册"</string>
+    <string name="vivo_phone_num_empty_wrong">"手机号不能为空     "</string>
+    <string name="vivo_phone_num_format_wrong">"手机号格式错误     "</string>
+    <string name="vivo_phone_num_label">"手机号"</string>
+    <string name="vivo_phone_num_verify">"请输入短信验证码"</string>
+    <string name="vivo_phone_num_verify_format">"4位数字"</string>
+    <string name="vivo_phone_num_verify_intro">"短信可能会有延时，请耐心等待，如果长时间未收到短信，请60秒后重新获取"</string>
+    <string name="vivo_phone_num_verify_label">"验证码:"</string>
+    <string name="vivo_phone_num_verify_tip">"请输入您收到的验证码"</string>
+    <string name="vivo_phone_or_email_format_wrong">"请输入手机号或邮箱     "</string>
+    <string name="vivo_question1_label">"问题1"</string>
+    <string name="vivo_question2_label">"问题2"</string>
+    <string name="vivo_question3_label">"问题3"</string>
+    <string name="vivo_question_answer_empty_wrong">"答案不能为空"</string>
+    <string name="vivo_question_indispensable_label">"请选择一个问题"</string>
+    <string name="vivo_question_lable">"问题"</string>
+    <string name="vivo_question_next">"换一个"</string>
+    <string name="vivo_question_next_end">"已是最后一个"</string>
+    <string name="vivo_question_reedit_error">"与已有的问题雷同      "</string>
+    <string name="vivo_question_repeat_error">"与已有的问题雷同      "</string>
+    <string name="vivo_question_repeat_intr">"与已有的问题雷同      "</string>
+    <string name="vivo_question_reselect">"重新选择"</string>
+    <string name="vivo_question_title">"密保问题"</string>
+    <string name="vivo_read_protocol">"同意《用户协议》"</string>
+    <string name="vivo_read_protocol_2">"注册即表示同意《用户协议》"</string>
+    <string name="vivo_recharge_account">充值账号:</string>
+    <string name="vivo_registe_email_tips">"您也可以使用"</string>
+    <string name="vivo_registe_email_title">"邮箱注册"</string>
+    <string name="vivo_registe_phone_title">"手机号注册"</string>
+    <string name="vivo_registe_title">"注册帐户"</string>
+    <string name="vivo_register_email_label">"邮    箱"</string>
+    <string name="vivo_register_password_label">"设置密码:"</string>
+    <string name="vivo_register_phone_failed_tip">"一键注册失败，请输入您要注册的手机号"</string>
+    <string name="vivo_register_phone_setpwd_tip">"6-16位字母或数字"</string>
+    <string name="vivo_security_question_label">"密保问题"</string>
+    <string name="vivo_send_email_success">"验证邮件已发送到您的邮箱（%1$s），请注意查收"</string>
+    <string name="vivo_send_sms_tip">"将发送一条验证短信，资费同一条普通短信，由运营商收取"</string>
+    <string name="vivo_sending_string">"正在发送"</string>
+    <string name="vivo_set_network">"设置网络"</string>
+    <string name="vivo_set_password_label">"设置密码"</string>
+    <string name="vivo_show_password">"显示密码 "</string>
+    <string name="vivo_strategy_title">"攻略"</string>
+    <string name="vivo_sub_account_edit_text">"编辑"</string>
+    <string name="vivo_sub_account_edit_text_cancel">"退出编辑"</string>
+    <string name="vivo_sub_account_entry_text">"进入游戏（*秒）"</string>
+    <string name="vivo_sub_account_entry_text_onesec">"进入游戏（1秒）"</string>
+    <string name="vivo_sub_account_entry_text_totalsec">"进入游戏（3秒）"</string>
+    <string name="vivo_sub_account_exit">"注销"</string>
+    <string name="vivo_sub_account_rename_text">"重命名"</string>
+    <string name="vivo_sub_account_text">"游戏ID:"</string>
+    <string name="vivo_sub_add">"新建小号"</string>
+    <string name="vivo_sub_add_notice">"注:小号将以新角色进入游戏"</string>
+    <string name="vivo_sub_edit">"编辑小号"</string>
+    <string name="vivo_sub_edit_com_title">"编辑小号名称"</string>
+    <string name="vivo_sub_edit_commit">"确定"</string>
+    <string name="vivo_subaccount_empty_wrong">"游戏ID不能为空  "</string>
+    <string name="vivo_subaccount_formatmore_wrong">"游戏ID不能多于15位  "</string>
+    <string name="vivo_submit_label">"提  交"</string>
+    <string name="vivo_sure_label">"确认"</string>
+    <string name="vivo_switch_account">"切换帐号"</string>
+    <string name="vivo_switch_email_register">"切换至邮箱注册"</string>
+    <string name="vivo_switch_phone_register">"切换至手机号注册"</string>
+    <string name="vivo_temp_bind_email_title">游客升级-绑定邮箱</string>
+    <string name="vivo_temp_bind_phone_title">游客升级-绑定手机</string>
+    <string name="vivo_temp_bind_tips">您注册的帐号%s已和您的游客帐号绑定，游客帐户游戏数据已转移至您的新注册帐号上</string>
+    <string name="vivo_temp_login_tips">正在登录：游客帐号</string>
+    <string name="vivo_temp_pay_tips">您正在使用游客帐号充值，无法参与任何充赠活动，为了您的帐号安全和利益，我们强烈建议您先升级成为vivo帐号。</string>
+    <string name="vivo_temp_update_after">下次再说</string>
+    <string name="vivo_temp_update_now">立即升级</string>
+    <string name="vivo_temp_update_tips">您正在使用游客帐号，游客帐号存在丢失风险，升级后游客帐号数据将转移到正式帐号上,是否要注册升级为正式帐号？</string>
+    <string name="vivo_temp_update_tips_left_1">正式帐号</string>
+    <string name="vivo_temp_update_tips_left_2">完善的安全机制</string>
+    <string name="vivo_temp_update_tips_left_3">多种找回方式</string>
+    <string name="vivo_temp_update_tips_left_4">可参与充赠活动</string>
+    <string name="vivo_temp_update_tips_left_5">可新建多个小号</string>
+    <string name="vivo_temp_update_tips_right_1">游客帐号</string>
+    <string name="vivo_temp_update_tips_right_2">易丢失</string>
+    <string name="vivo_temp_update_tips_right_3">无法找回</string>
+    <string name="vivo_temp_update_tips_right_4">无法参加充赠活动</string>
+    <string name="vivo_temp_update_tips_right_5">只有一个默认帐号</string>
+    <string name="vivo_title_bind_security_email">"vivo帐户  请绑定手机号"</string>
+    <string name="vivo_unBind_label">"未绑定"</string>
+    <string name="vivo_upgrade">"立即升级"</string>
+    <string name="vivo_upgrade_app_down_complete">检测到本地有最新的vivo安全服务插件安装包，现在是否安装？</string>
+    <string name="vivo_upgrade_app_new_version">"发现新版本"</string>
+    <string name="vivo_upgrade_cancel">取消</string>
+    <string name="vivo_upgrade_cancel_download">取消下载</string>
+    <string name="vivo_upgrade_cancle">"以后再说"</string>
+    <string name="vivo_upgrade_download_file_error">"无法完成下载，当前存储空间不足或不可用"</string>
+    <string name="vivo_upgrade_download_file_impossible">存储模式不可用</string>
+    <string name="vivo_upgrade_download_nosdcard">当前存储空间不足或不可用</string>
+    <string name="vivo_upgrade_download_percent">%1$s%%</string>
+    <string name="vivo_upgrade_error_appnotavailable">找不到对应程序打开该文件</string>
+    <string name="vivo_upgrade_exit_app">退出</string>
+    <string name="vivo_upgrade_install_app">安装</string>
+    <string name="vivo_upgrade_install_tips">安装新版本</string>
+    <string name="vivo_upgrade_msg_latest_version">暂无更新版本</string>
+    <string name="vivo_upgrade_msg_network_error">网络未连接或不稳定</string>
+    <string name="vivo_upgrade_msg_server_error">服务器暂时无法响应，请稍后重试</string>
+    <string name="vivo_upgrade_next_time">下次再说</string>
+    <string name="vivo_upgrade_no_notice_in_seven">7天内不再提醒</string>
+    <string name="vivo_upgrade_ok">确定</string>
+    <string name="vivo_upgrade_package_update">更新</string>
+    <string name="vivo_upgrade_redownload">重新下载</string>
+    <string name="vivo_upgrade_retry_download">网络连接失败，请重试</string>
+    <string name="vivo_upgrade_system_app_new_version">发现新版本</string>
+    <string name="vivo_upgrade_system_update_later">以后再说</string>
+    <string name="vivo_upgrade_system_update_now">立即更新</string>
+    <string name="vivo_upgrade_update_dialog_version_text">版本号：V</string>
+    <string name="vivo_upgrade_update_is_downloading">检测到新版本，正在为您免流量升级中...</string>
+    <string name="vivo_upgrade_update_later">忽略本次</string>
+    <string name="vivo_upgrade_update_now">立即更新</string>
+    <string name="vivo_upgrade_waiting_for_download">正在连接...</string>
+    <string name="vivo_use_temp_account">"游客体验"</string>
+    <string name="vivo_user_info">实名制信息</string>
+    <string name="vivo_user_info_commit_success">恭喜您成功提交实名制信息</string>
+    <string name="vivo_user_info_id">身份证号码:</string>
+    <string name="vivo_user_info_id_error">请输入您的真实身份证号</string>
+    <string name="vivo_user_info_id_hint">请输入您的二代身份证号码</string>
+    <string name="vivo_user_info_name">真实姓名:</string>
+    <string name="vivo_user_info_name_error">请填写您的真实姓名</string>
+    <string name="vivo_user_info_name_hint">请输入您身份证上的对应姓名</string>
+    <string name="vivo_user_info_notice">尊敬的游戏用户：您好，根据中华人民共和国文化部《互联网文化管理暂行规定》和《网络游戏管理暂行办法》对于移动网络游戏市场的相关规定及要求，游戏用户需要登记如下个人信息：</string>
+    <string name="vivo_user_info_notice2">实名注册资料一旦填写确认，无法随意更改。请您在填写实名制资料时谨慎操作！</string>
+    <string name="vivo_user_info_tips">未填写</string>
+    <string name="vivo_user_info_title">实名制信息登记</string>
+    <string name="vivo_username_empty_wrong">"请输入手机号或邮箱   "</string>
+    <string name="vivo_username_format_wrong">"用户名必须为3–15个字符或2–7个汉字"</string>
+    <string name="vivo_username_pure_num_wrong">"用户名不可为纯数字     "</string>
+    <string name="vivo_verify_num_format_wrong">"验证码为4位数字"</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+</resources>

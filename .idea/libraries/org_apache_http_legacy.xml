@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.http.legacy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_vivo_4_2_40/libs/org.apache.http.legacy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

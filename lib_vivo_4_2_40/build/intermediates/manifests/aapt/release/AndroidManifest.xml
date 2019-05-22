@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.other.sdk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <application android:allowBackup="true" >
+
+        <!--
+        <activity
+            android:name="com.gugame.othersdk.VIVOPayActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/vivo_app_name"
+            android:screenOrientation="landscape"
+            android:theme="@style/vivo_animation_transparent" >
+        </activity>
+        -->
+        <!-- vivo begin -->
+        <!-- vivo activity support portrait and landscape begin -->
+
+        <meta-data
+            android:name="APP_MONITOR_APPID"
+            android:value="b1002c" />
+        <meta-data
+            android:name="vivo_union_sdk"
+            android:value="4.2.4.0" />
+
+        <!-- vivo sdk componets start -->
+        <!-- vivo sdk的Activity -->
+        <activity
+            android:name="com.vivo.unionsdk.ui.UnionActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="union.vivo.com"
+                    android:path="/openjump"
+                    android:scheme="vivounion" />
+            </intent-filter>
+        </activity>
+        <!-- vivo sdk componets end -->
+
+    </application>
+
+</manifest>

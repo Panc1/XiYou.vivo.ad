@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_bg_left_down.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_bg_left_down.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_edittext_noline.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_edittext_noline.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_paymenttips_cancel.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_paymenttips_cancel.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_login_btn_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_login_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_title_normal_up.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_title_normal_up.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_btn_default_small_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_action_list_item_bg_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_action_list_item_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_divider.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_divider.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background_down.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background_down.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_popup_dialog_bottom.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_popup_dialog_bottom.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_radio_check.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_radio_check.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_next_pay_up.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_next_pay_up.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_back_game_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_back_game_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_action_list_divider.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_action_list_divider.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_ableticket_background.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_ableticket_background.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vcoin_pay_icon_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vcoin_pay_icon_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background23.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background23.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background21.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background21.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_northeast_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_northeast_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_southwest_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_southwest_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\checked.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\checked.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card_tab_left_down.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card_tab_left_down.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_edittext_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_edittext_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_editor_delete_press.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_editor_delete_press.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_left_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_left_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_content_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_content_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_icon.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_icon.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_all_squre_bottom_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_all_squre_bottom_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_div_line.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_div_line.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_all_squre_top_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_all_squre_top_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_acc_label_all_round_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_acc_label_all_round_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_tab_right_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_tab_right_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card_tab_right_up.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card_tab_right_up.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_title_normal_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_title_normal_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_indicator_input_pass.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_indicator_input_pass.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_edit_round_sel_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_edit_round_sel_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_bg_right_down.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_bg_right_down.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_paydlg_content_bottom.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_paydlg_content_bottom.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_progressbar_indeterminate2.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_progressbar_indeterminate2.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_dialog_button_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_tencent.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_tencent.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_uppay.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_uppay.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_radio_normal.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_radio_normal.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_button_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_button_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_editor_delete_normal.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_editor_delete_normal.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_button_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_backup_anim3.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\stat_backup_anim3.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_back_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_back_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_topup_wait.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_topup_wait.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_topup_fail.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_topup_fail.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_backup_anim1.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\stat_backup_anim1.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_listitem_bottom_round.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_listitem_bottom_round.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_checkbox_press.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_checkbox_press.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_back_press.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_back_press.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_topup_succ.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_topup_succ.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_list_selector_background.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_list_selector_background.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_pay_amount_up.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_pay_amount_up.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_tab_left.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_tab_left.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_password_eye_nosee.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_password_eye_nosee.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_bg_right_up.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_bg_right_up.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card_tab_right_down.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card_tab_right_down.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_dialog_ok_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_dialog_ok_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_not_use_ticket.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_not_use_ticket.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_cancel_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_cancel_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_submit_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_submit_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_south_east_round_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_south_east_round_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_list_content_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_list_content_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_activity_title_bar.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_activity_title_bar.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_action_details_cancel_press.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_action_details_cancel_press.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal23.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal23.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_edittext_line.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_edittext_line.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_bg_right_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_bg_right_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_divline_vertical.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_divline_vertical.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_edit_round_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_edit_round_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_pay_next_arrow.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_pay_next_arrow.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background33.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background33.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_submit_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_submit_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_check_box_true.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_check_box_true.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_not_enough.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_not_enough.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background3.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background3.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card_tab_center_up.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card_tab_center_up.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_title_right_line.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_title_right_line.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_backup_anim2.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\stat_backup_anim2.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_window_title_bar.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_window_title_bar.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_paydlg_bottom_bar.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_paydlg_bottom_bar.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_bg_left_up.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_bg_left_up.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_btn_default_small_normal_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_list_item_bg_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_list_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\popup_top_dark.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\popup_top_dark.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_tab_right.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_tab_right.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_action_details_cancel_normal.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_action_details_cancel_normal.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_south_west_round_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_south_west_round_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_login_btn_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_login_btn_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal_l.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal_l.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_pay_amount_down.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_pay_amount_down.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_uncheck.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_uncheck.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_tab_left_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_tab_left_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_progressbar_indeterminate3.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_progressbar_indeterminate3.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_bg_left_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_bg_left_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_progress_round.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\dialog_progress_round.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card_tab_center_down.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card_tab_center_down.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_preference_bg_bottom.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_preference_bg_bottom.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_progressbar_indeterminate1.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_progressbar_indeterminate1.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_edittext_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_edittext_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\giftcertificate_line_invalid.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\giftcertificate_line_invalid.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_tab_center_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_tab_center_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_north_west_round_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_north_west_round_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_all_squre_bottom_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_all_squre_bottom_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_submit_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_submit_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_north_east_round_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_north_east_round_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\giftcertificate_list_item_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\giftcertificate_list_item_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_indicator_input_error.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_indicator_input_error.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_title_left_line.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_title_left_line.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_back_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_back_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pay_amount_tip_bg.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\pay_amount_tip_bg.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_popup_dialog_top.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_popup_dialog_top.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stat_backup_anim0.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\stat_backup_anim0.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_northwest_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_northwest_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_markup_view_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_markup_view_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_password_eye_see.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_password_eye_see.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_north_west_round_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_north_west_round_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\giftcertificate_item_invalid_flag.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\giftcertificate_item_invalid_flag.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_bar.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_bar.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_back_game_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_back_game_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background31.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background31.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_cancel_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dlg_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dlg_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_next_pay_down.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_next_pay_down.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_preference_bg_top.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_preference_bg_top.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_dialog_cancel_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_dialog_cancel_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background1.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background1.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_check_box_false.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_check_box_false.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\giftcertificate_item_state_invalid.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\giftcertificate_item_state_invalid.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_login_btn_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_login_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_progressbar_indeterminate1.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_progressbar_indeterminate1.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_left_sel_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_left_sel_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_dialog_ok_press.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_dialog_ok_press.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_radio_selected.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_radio_selected.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_weixin.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_weixin.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_listitem_top_round.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_listitem_top_round.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_action_background.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_action_background.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_action_list_item_bg_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_action_list_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_content_bottom.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_content_bottom.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_back_normal.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_back_normal.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_dialog_button_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_dialog_button_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_dialog_button_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_dialog_button_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_common_dialog_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_common_dialog_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_ticket_time_will_expire.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_ticket_time_will_expire.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_list_selector_background_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_next_arrow_down.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_next_arrow_down.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_checkbox_normal.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_progressbar_indeterminate2.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_progressbar_indeterminate2.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_preference_bg_bottom_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_preference_bg_bottom_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unchecked.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\unchecked.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_background2.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_background2.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_alipay.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_alipay.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_right_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_right_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_giftcertificate_item_invalid.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_giftcertificate_item_invalid.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_paydlg_title_bar.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_paydlg_title_bar.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\giftcertificate_line_valid.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\giftcertificate_line_valid.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_edit_southeast_bg.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_edit_southeast_bg.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_progressbar_indeterminate3.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_progressbar_indeterminate3.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\giftcertificate_item_valid_flag.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\giftcertificate_item_valid_flag.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_scrollbar_thumbvertical.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_scrollbar_thumbvertical.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_game_card.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_game_card.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_next_arrow_up.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_next_arrow_up.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_btn_submit_disable.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_btn_submit_disable.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_button_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_button_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_north_east_round_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_north_east_round_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_topup_continue.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_topup_continue.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_preference_bg_middle.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_preference_bg_middle.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_acc_label_all_round_sel.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_acc_label_all_round_sel.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_all_squre_top_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_all_squre_top_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_checkbox_check.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_checkbox_check.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_tab_center.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_tab_center.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_title_divider.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_title_divider.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_card_tab_left_up.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_card_tab_left_up.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_title_bar.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_title_bar.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_south_east_round_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_south_east_round_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_dialog_windowflat.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_dialog_windowflat.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_bg_south_west_round_pressed.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_bg_south_west_round_pressed.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_upgrade_dialog_cancel_press.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_upgrade_dialog_cancel_press.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal_l23.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_rechargeamount_text_bg_normal_l23.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_notify_icon.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_notify_icon.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_channel_background.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_channel_background.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bbk_list_item_bg_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\bbk_list_item_bg_normal.9.png"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vivo_btn_default_small_normal.9.png",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vivo_btn_default_small_normal.9.png"
+    }
+]

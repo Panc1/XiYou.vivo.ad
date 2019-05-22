@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bbk_fade_in.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\bbk_fade_in.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_notification_hide_alpha_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_notification_hide_alpha_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_push_up_out.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_push_up_out.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_scalerepeatthirdanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_scalerepeatthirdanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translaterrepeatsixthanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translaterrepeatsixthanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_hide_alpha_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_hide_alpha_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\brower_forward_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\brower_forward_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_rotate_right_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_rotate_right_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\brower_setting_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\brower_setting_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_hyperspace_out.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_hyperspace_out.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_show_text_alpha_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_show_text_alpha_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_rotateanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_rotateanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bbk_fade_out.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\bbk_fade_out.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_alpha_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_alpha_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\comment_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\comment_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_slide_down_out.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_slide_down_out.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_hold.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_hold.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translaterrepeatfirstshowanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translaterrepeatfirstshowanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\checkbox_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\checkbox_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translaterrepeatsecondanim_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translaterrepeatsecondanim_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_scalerepeatfourthanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_scalerepeatfourthanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_wave_scale.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_wave_scale.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vivo_fade_in_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\vivo_fade_in_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_slide_up_in.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_slide_up_in.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_push_up_in.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_push_up_in.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\brower_quit_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\brower_quit_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bbk_alpha_scale_vertical.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\bbk_alpha_scale_vertical.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translaterrepeatfirstanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translaterrepeatfirstanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translateanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translateanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_zoom_enter.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_zoom_enter.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_push_left_out.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_push_left_out.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_fade.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_fade.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translaterrepeatsecondanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translaterrepeatsecondanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\brower_refresh_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\brower_refresh_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_push_left_in.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_push_left_in.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\brower_back_selector.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\brower_back_selector.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\vivo_fade_out_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\vivo_fade_out_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_show_alpha_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_show_alpha_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_slide_left.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_slide_left.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\checkbox_unchecked.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\checkbox_unchecked.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_hyperspace_in.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_hyperspace_in.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_my_alpha_action.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_my_alpha_action.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_scale_translate.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_scale_translate.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_translaterrepeatfirstanim_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_translaterrepeatfirstanim_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\checkbox_checked.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\checkbox_checked.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_scale_rotate.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_scale_rotate.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_slide_right.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_slide_right.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_rotate_show_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_rotate_show_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_my_scale_action.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_my_scale_action.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_scalerepeatsixthanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_scalerepeatsixthanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_scalerepeatfifthanim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_scalerepeatfifthanim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_scale_translate_rotate.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_scale_translate_rotate.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\floatview_rotate_left_anim.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\lib_vivo_4_2_40\\build\\intermediates\\bundles\\default\\res\\anim\\floatview_rotate_left_anim.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\build\\intermediates\\res\\merged\\debug\\anim\\switch_zoom_exit.xml",
+        "source": "E:\\project\\AndroidStudioProject\\XiYou\\vivo\\20190128\\app\\src\\main\\res\\anim\\switch_zoom_exit.xml"
+    }
+]

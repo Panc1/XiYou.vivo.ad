@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/guvivo_banner_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff5f5f5">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5.0dip"
+        android:layout_marginLeft="15.0dip"
+        android:layout_marginRight="15.0dip"
+        android:layout_marginTop="5.0dip"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5.0dip"
+            android:paddingRight="5.0dip">
+
+            <ImageView
+                android:id="@+id/guvivo_banner_icon"
+                android:layout_width="50.0dip"
+                android:layout_height="50.0dip"
+                android:layout_gravity="center"
+                android:src="#ffcccccc" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|left"
+            android:layout_weight="7.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/guvivo_banner_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textColor="#ff000000"
+                android:textSize="18.0dip" />
+
+            <TextView
+                android:id="@+id/guvivo_banner_desc"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="desc."
+                android:textColor="#ff333333"
+                android:textSize="12.0dip" />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:paddingLeft="5.0dip">
+
+            <TextView
+                android:id="@+id/guvivo_banner_click_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="#ff0099ff"
+                android:padding="5.0dip"
+                android:text="go"
+                android:textColor="#ffffffff"
+                android:textSize="14.0dip" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center|right"
+        android:background="#88000000"
+        android:minHeight="0.0dip"
+        android:minWidth="0.0dip"
+        android:text="广告"
+        android:textColor="#ffffffff"
+        android:textSize="10.0dip" />
+
+    <Button
+        android:id="@+id/guvivo_banner_click"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#00000000" />
+
+    <Button
+        android:id="@+id/guvivo_banner_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|left|top"
+        android:background="@drawable/close_12x12"
+        android:minHeight="0.0dip"
+        android:minWidth="0.0dip"
+        android:textColor="#ffffffff"
+        android:textSize="11.0dip" />
+</FrameLayout>
